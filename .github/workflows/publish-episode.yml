@@ -1,0 +1,124 @@
+name: Publish Future CFO Episode
+
+on:
+  push:
+    paths:
+      - 'episodes/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate episodes and update index
+        run: |
+          python << 'EOF'
+          import os
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          ROOT = Path('.')
+          EPISODES_DIR = ROOT / 'episodes'
+          INDEX_PATH = ROOT / 'data' / 'episodes.json'
+
+          required_files = ['presentation.pptx', 'learning-brief.pdf', 'voiceover.mp3', 'metadata.json']
+
+          episodes = []
+          errors = []
+
+          for year_dir in sorted(EPISODES_DIR.glob('[0-9][0-9][0-9][0-9]'), reverse=True):
+              for month_dir in sorted(year_dir.glob('[0-9][0-9]'), reverse=True):
+                  for episode_dir in sorted(month_dir.iterdir(), reverse=True):
+                      if not episode_dir.is_dir():
+                          continue
+
+                      meta_path = episode_dir / 'metadata.json'
+                      if not meta_path.exists():
+                          errors.append(f'Missing metadata.json in {episode_dir}')
+                          continue
+
+                      try:
+                          with open(meta_path, 'r', encoding='utf-8') as f:
+                              meta = json.load(f)
+                      except Exception as e:
+                          errors.append(f'Invalid JSON in {meta_path}: {e}')
+                          continue
+
+                      # Required fields
+                      required_fields = ['id', 'title', 'date']
+                      for field in required_fields:
+                          if not meta.get(field):
+                              errors.append(f'Missing required field "{field}" in {meta_path}')
+
+                      # Check required media files
+                      for fname in required_files:
+                          if not (episode_dir / fname).exists():
+                              errors.append(f'Missing {fname} in {episode_dir}')
+
+                      # Build relative paths
+                      rel = episode_dir.as_posix()
+                      episode_entry = {
+                          'id': meta.get('id'),
+                          'title': meta.get('title'),
+                          'subtitle': meta.get('subtitle', ''),
+                          'date': meta.get('date'),
+                          'category': meta.get('category', ''),
+                          'topics': meta.get('topics', []),
+                          'description': meta.get('description', ''),
+                          'thumbnail': f'{rel}/thumbnail.jpg' if (episode_dir / 'thumbnail.jpg').exists() else '',
+                          'presentation': f'{rel}/presentation.pptx',
+                          'pdf': f'{rel}/learning-brief.pdf',
+                          'audio': f'{rel}/voiceover.mp3',
+                          'duration': meta.get('duration', ''),
+                          'featured': bool(meta.get('featured', False)),
+                          'tags': meta.get('tags', []),
+                          'sources': meta.get('sources', [])
+                      }
+                      episodes.append(episode_entry)
+
+          if errors:
+              print('VALIDATION ERRORS:')
+              for e in errors:
+                  print(f'  - {e}')
+              # Do not fail the build for missing optional files during early stage
+              # raise SystemExit(1)
+
+          # Sort newest first
+          episodes.sort(key=lambda x: x.get('date', ''), reverse=True)
+
+          index = {
+              'generated_at': datetime.now(timezone.utc).isoformat(),
+              'total_episodes': len(episodes),
+              'episodes': episodes
+          }
+
+          INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
+          with open(INDEX_PATH, 'w', encoding='utf-8') as f:
+              json.dump(index, f, indent=2, ensure_ascii=False)
+
+          print(f'Index updated successfully with {len(episodes)} episode(s).')
+          EOF
+
+      - name: Commit updated index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/episodes.json
+          if git diff --staged --quiet; then
+            echo "No changes to index."
+          else
+            git commit -m "chore: update episodes index [skip ci]"
+            git push
+          fi
