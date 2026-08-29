@@ -2,7 +2,7 @@
 
 **Preparing the World's Business Students for the AI-Powered Economy**
 
-Academic Direction by **Dr. Debasis Pahi**  
+Copyright  by **Dr. Debasis Pahi**  
 Ph.D., IIT Kharagpur  
 Research Focus: Corporate Governance · Capital Structure · ESG & Sustainable Finance
 
@@ -57,4 +57,4 @@ assets/                  # Shared visual assets
 
 ---
 
-© Future CFO 2035 | Academic Direction by Dr. Debasis Pahi
+© Future CFO 2035 | Copyright  by Dr. Debasis Pahi
