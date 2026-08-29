@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Future CFO 2035 | Preparing Business Students for the AI-Powered Economy</title>
+  <meta name="description" content="Daily educational episodes for future CFOs, finance and business students. Academic Direction by Dr. Debasis Pahi." />
+  <meta property="og:title" content="Future CFO 2035" />
+  <meta property="og:description" content="Preparing the World's Business Students for the AI-Powered Economy" />
+  <meta property="og:type" content="website" />
+  <style>
+    :root {
+      --navy: #0A1628;
+      --teal: #0D9488;
+      --slate: #1E293B;
+      --slate-mid: #475569;
+      --slate-light: #94A3B8;
+      --bg: #F8FAFC;
+      --white: #FFFFFF;
+      --border: #E2E8F0;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg);
+      color: var(--slate);
+      line-height: 1.6;
+    }
+    header {
+      background: var(--navy);
+      color: white;
+      padding: 2.5rem 1.5rem 2rem;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 1.85rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.4rem;
+    }
+    header .subtitle {
+      color: #94A3B8;
+      font-size: 1rem;
+      max-width: 560px;
+      margin: 0 auto 1rem;
+    }
+    header .brand {
+      color: var(--teal);
+      font-size: 0.9rem;
+      font-weight: 600;
+    }
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.25rem 4rem;
+    }
+    .featured {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.75rem;
+      margin-bottom: 2.5rem;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    }
+    .featured .label {
+      display: inline-block;
+      background: #CCFBF1;
+      color: var(--teal);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 0.25rem 0.6rem;
+      border-radius: 4px;
+      margin-bottom: 0.75rem;
+    }
+    .episode-card {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.5rem;
+      margin-bottom: 1.25rem;
+      transition: box-shadow 0.15s;
+    }
+    .episode-card:hover {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .episode-card h2 {
+      font-size: 1.2rem;
+      font-weight: 650;
+      color: var(--navy);
+      margin-bottom: 0.35rem;
+      line-height: 1.35;
+    }
+    .meta {
+      font-size: 0.85rem;
+      color: var(--slate-mid);
+      margin-bottom: 0.75rem;
+    }
+    .meta span { margin-right: 0.75rem; }
+    .description {
+      font-size: 0.95rem;
+      color: var(--slate);
+      margin-bottom: 1.1rem;
+    }
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.45rem 0.9rem;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      font-weight: 550;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      background: white;
+      color: var(--slate);
+      transition: all 0.15s;
+    }
+    .btn:hover {
+      border-color: var(--teal);
+      color: var(--teal);
+      background: #F0FDFA;
+    }
+    .btn-primary {
+      background: var(--teal);
+      color: white;
+      border-color: var(--teal);
+    }
+    .btn-primary:hover {
+      background: #0F766E;
+      color: white;
+    }
+    .section-title {
+      font-size: 1.1rem;
+      font-weight: 650;
+      color: var(--navy);
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 2px solid var(--teal);
+      display: inline-block;
+    }
+    footer {
+      text-align: center;
+      padding: 2.5rem 1.5rem;
+      color: var(--slate-light);
+      font-size: 0.85rem;
+      border-top: 1px solid var(--border);
+      background: white;
+    }
+    footer a { color: var(--teal); text-decoration: none; }
+    .loading { text-align: center; padding: 3rem; color: var(--slate-mid); }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.5rem; }
+      .actions { flex-direction: column; }
+      .btn { justify-content: center; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Future CFO 2035</h1>
+    <p class="subtitle">Preparing the World's Business Students for the AI-Powered Economy</p>
+    <p class="brand">Academic Direction by Dr. Debasis Pahi</p>
+  </header>
+
+  <div class="container">
+    <div id="featured"></div>
+    <h2 class="section-title">All Episodes</h2>
+    <div id="episodes" class="loading">Loading episodes…</div>
+  </div>
+
+  <footer>
+    <p><strong>Future CFO 2035</strong> · Academic Direction by Dr. Debasis Pahi</p>
+    <p style="margin-top:0.4rem">
+      <a href="https://scholar.google.com/citations?user=XBEHNeUAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> ·
+      <a href="https://www.youtube.com/@dpklass1990" target="_blank">YouTube</a> ·
+      <a href="mailto:drdebasis.research@gmail.com">Contact</a>
+    </p>
+    <p style="margin-top:0.6rem;font-size:0.8rem">© Future CFO 2035 · Educational use only</p>
+  </footer>
+
+  <script>
+    async function loadEpisodes() {
+      try {
+        const res = await fetch('data/episodes.json?t=' + Date.now());
+        const data = await res.json();
+        const episodes = data.episodes || [];
+
+        const featuredEl = document.getElementById('featured');
+        const listEl = document.getElementById('episodes');
+
+        if (episodes.length === 0) {
+          listEl.innerHTML = '<p style="color:#64748b">No episodes published yet.</p>';
+          return;
+        }
+
+        // Featured
+        const featured = episodes.find(e => e.featured) || episodes[0];
+        featuredEl.innerHTML = `
+          <div class="featured">
+            <div class="label">Featured Episode</div>
+            <h2 style="font-size:1.35rem;color:var(--navy);margin-bottom:0.4rem">${featured.title}</h2>
+            <div class="meta">
+              <span>${featured.date}</span>
+              <span>${featured.category || ''}</span>
+              <span>${featured.duration || ''}</span>
+            </div>
+            <p class="description">${featured.description || featured.subtitle || ''}</p>
+            <div class="actions">
+              ${featured.audio ? `<a class="btn btn-primary" href="${featured.audio}" target="_blank">🎧 Listen</a>` : ''}
+              ${featured.presentation ? `<a class="btn" href="${featured.presentation}" target="_blank">📊 Presentation</a>` : ''}
+              ${featured.pdf ? `<a class="btn" href="${featured.pdf}" target="_blank">📄 Learning Brief</a>` : ''}
+            </div>
+          </div>
+        `;
+
+        // All episodes
+        listEl.innerHTML = episodes.map(ep => `
+          <div class="episode-card">
+            <h2>${ep.title}</h2>
+            <div class="meta">
+              <span>${ep.date}</span>
+              ${ep.category ? `<span>${ep.category}</span>` : ''}
+              ${ep.duration ? `<span>${ep.duration}</span>` : ''}
+            </div>
+            <p class="description">${ep.description || ep.subtitle || ''}</p>
+            <div class="actions">
+              ${ep.audio ? `<a class="btn btn-primary" href="${ep.audio}" target="_blank">🎧 Listen</a>` : ''}
+              ${ep.presentation ? `<a class="btn" href="${ep.presentation}" target="_blank">📊 Presentation</a>` : ''}
+              ${ep.pdf ? `<a class="btn" href="${ep.pdf}" target="_blank">📄 Learning Brief</a>` : ''}
+            </div>
+          </div>
+        `).join('');
+
+      } catch (err) {
+        document.getElementById('episodes').innerHTML = '<p style="color:#b91c1c">Unable to load episodes. Please refresh.</p>';
+        console.error(err);
+      }
+    }
+
+    loadEpisodes();
+  </script>
+</body>
+</html>
