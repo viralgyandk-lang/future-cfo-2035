@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Future CFO 2035 | Preparing Business Students for the AI-Powered Economy</title>
-  <meta name="description" content="Daily educational episodes for future CFOs, finance and business students. Copyright  by Dr. Debasis Pahi." />
+  <meta name="description" content="Daily educational episodes for future CFOs, finance and business students. Created and Copyright by Dr. Debasis Pahi." />
   <meta property="og:title" content="Future CFO 2035" />
   <meta property="og:description" content="Preparing the World's Business Students for the AI-Powered Economy" />
   <meta property="og:type" content="website" />
@@ -32,8 +32,6 @@
       display: flex;
       flex-direction: column;
     }
-
-    /* Header + Nav */
     header {
       background: var(--navy-soft);
       border-bottom: 1px solid var(--border);
@@ -63,7 +61,13 @@
       color: var(--teal);
       font-size: 0.9rem;
       font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+    header .affiliation {
+      color: var(--text-dim);
+      font-size: 0.8rem;
       margin-bottom: 1rem;
+      line-height: 1.4;
     }
     nav {
       display: flex;
@@ -92,8 +96,6 @@
       color: var(--teal);
       border-bottom-color: var(--teal);
     }
-
-    /* Main content */
     .container {
       max-width: 920px;
       width: 100%;
@@ -103,8 +105,6 @@
     }
     .page { display: none; }
     .page.active { display: block; }
-
-    /* Cards */
     .featured, .episode-card, .about-card, .contact-card {
       background: var(--card);
       border: 1px solid var(--border);
@@ -190,8 +190,6 @@
       border-bottom: 2px solid var(--teal);
       display: inline-block;
     }
-
-    /* About & Contact */
     .about-card p, .contact-card p {
       font-size: 1.02rem;
       color: var(--text);
@@ -216,7 +214,6 @@
       font-weight: 500;
     }
     .contact-links a:hover { text-decoration: underline; }
-
     footer {
       text-align: center;
       padding: 1.8rem 1.2rem;
@@ -227,8 +224,6 @@
     }
     footer a { color: var(--teal); text-decoration: none; }
     .loading { text-align: center; padding: 2.5rem 1rem; color: var(--text-muted); }
-
-    /* Mobile */
     @media (max-width: 640px) {
       .header-inner { padding: 0.95rem 0.9rem 0; }
       nav button { padding: 0.7rem 0.85rem; font-size: 0.88rem; }
@@ -248,7 +243,8 @@
     <div class="header-inner">
       <h1>Future CFO 2035</h1>
       <p class="subtitle">Preparing the World's Business Students for the AI-Powered Economy</p>
-      <p class="brand">Copyright  by Dr. Debasis Pahi</p>
+      <p class="brand">Created and Copyright by Dr. Debasis Pahi</p>
+      <p class="affiliation">Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur<br>Research: Corporate Governance · Capital Structure · ESG & Sustainable Finance</p>
     </div>
     <nav>
       <button class="active" data-page="home">Home</button>
@@ -259,20 +255,17 @@
   </header>
 
   <div class="container">
-    <!-- HOME -->
     <div id="page-home" class="page active">
       <div id="featured"></div>
       <h2 class="section-title">Latest Episodes</h2>
       <div id="home-episodes" class="loading">Loading episodes…</div>
     </div>
 
-    <!-- EPISODES -->
     <div id="page-episodes" class="page">
       <h2 class="section-title">All Episodes</h2>
       <div id="all-episodes" class="loading">Loading episodes…</div>
     </div>
 
-    <!-- ABOUT -->
     <div id="page-about" class="page">
       <div class="about-card">
         <h2>About Future CFO 2035</h2>
@@ -286,18 +279,21 @@
         </ul>
         <p><strong>Core Philosophy</strong></p>
         <p>AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.</p>
-        <p style="margin-top:1.2rem"><strong>Copyright </strong><br>
-        Dr. Debasis Pahi<br>
-        Ph.D., IIT Kharagpur<br>
-        Research Focus: Corporate Governance · Capital Structure · ESG & Sustainable Finance</p>
+        <p style="margin-top:1.3rem"><strong>Created and Copyright by Dr. Debasis Pahi</strong></p>
+        <p>Assistant Professor, Model Degree College Malkangiri<br>
+        Ph.D., Indian Institute of Technology Kharagpur<br>
+        Research Focus: Corporate Governance · Capital Structure · Dividend Policy · Firm Performance · ESG & Sustainable Finance</p>
+        <p style="margin-top:0.8rem;font-size:0.95rem;color:var(--text-muted)">Publications in journals including <em>European Journal of Management and Business Economics</em>, <em>Managerial Finance</em>, and <em>Journal of Management and Governance</em>.</p>
       </div>
     </div>
 
-    <!-- CONTACT -->
     <div id="page-contact" class="page">
       <div class="contact-card">
         <h2>Contact & Connect</h2>
-        <p>Connect with Dr. Debasis Pahi for research collaboration, classroom adoption, or student guidance.</p>
+        <p><strong>Dr. Debasis Pahi</strong><br>
+        Assistant Professor, Model Degree College Malkangiri<br>
+        Ph.D., IIT Kharagpur</p>
+        <p>Connect for research collaboration, classroom adoption, or student guidance.</p>
         <div class="contact-links">
           <a href="mailto:drdebasis.research@gmail.com">✉ drdebasis.research@gmail.com</a>
           <a href="https://www.linkedin.com/in/dr-debasis-pahi" target="_blank">LinkedIn — Dr. Debasis Pahi (Ph.D)</a>
@@ -311,17 +307,18 @@
   </div>
 
   <footer>
-    <p><strong>Future CFO 2035</strong> · Copyright  by Dr. Debasis Pahi</p>
-    <p style="margin-top:0.4rem">
+    <p><strong>Future CFO 2035</strong></p>
+    <p style="margin-top:0.35rem">Created and Copyright by <strong>Dr. Debasis Pahi</strong></p>
+    <p style="margin-top:0.25rem;font-size:0.82rem">Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur</p>
+    <p style="margin-top:0.5rem">
       <a href="https://scholar.google.com/citations?user=XBEHNeUAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> ·
       <a href="https://www.youtube.com/@dpklass1990" target="_blank">YouTube</a> ·
       <a href="mailto:drdebasis.research@gmail.com">Email</a>
     </p>
-    <p style="margin-top:0.55rem;font-size:0.8rem">© Future CFO 2035 · Educational use only</p>
+    <p style="margin-top:0.55rem;font-size:0.78rem">© Future CFO 2035 · All rights reserved · Educational use only</p>
   </footer>
 
   <script>
-    // Navigation
     document.querySelectorAll('nav button').forEach(btn => {
       btn.addEventListener('click', () => {
         document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
@@ -334,7 +331,6 @@
 
     function renderEpisode(ep, isFeatured = false) {
       const buttons = [];
-      // Button order: Listen → Learning Brief → Presentation
       if (ep.audio) buttons.push(`<a class="btn btn-primary" href="${ep.audio}" target="_blank">🎧 Listen</a>`);
       if (ep.pdf) buttons.push(`<a class="btn" href="${ep.pdf}" target="_blank">📄 Learning Brief</a>`);
       if (ep.presentation) buttons.push(`<a class="btn" href="${ep.presentation}" target="_blank">📊 Presentation</a>`);
@@ -371,10 +367,7 @@
 
         const featured = episodes.find(e => e.featured) || episodes[0];
         featuredEl.innerHTML = renderEpisode(featured, true);
-
-        // Home shows latest 5
         homeList.innerHTML = episodes.slice(0, 5).map(ep => renderEpisode(ep)).join('');
-        // Episodes tab shows all
         allList.innerHTML = episodes.map(ep => renderEpisode(ep)).join('');
 
       } catch (err) {
