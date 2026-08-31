@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-30T00:47:19.349908+00:00",
-  "total_episodes": 2,
+  "generated_at": "2026-08-31T03:08:06.361525+00:00",
+  "total_episodes": 3,
   "episodes": [
+    {
+      "id": "future-cfo-2035-2026-08-31",
+      "title": "AI ROI Blind Spot: Protiviti Survey",
+      "subtitle": "Why many finance leaders still struggle to measure returns on AI investments",
+      "date": "2026-08-31",
+      "category": "Corporate Finance",
+      "topics": [
+        "Artificial Intelligence",
+        "ROI",
+        "Capital Allocation",
+        "Finance",
+        "Strategy"
+      ],
+      "description": "A recent Protiviti survey highlights a critical blind spot: while organisations continue to invest heavily in AI, many CFOs and finance teams still lack clear frameworks to measure and report AI returns. This episode helps students understand how future finance leaders should approach AI investment decisions, measurement, and governance.",
+      "thumbnail": "",
+      "presentation": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/presentation.pptx",
+      "pdf": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/learning-brief.pdf",
+      "audio": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/voiceover.mp3",
+      "duration": "8 minutes",
+      "featured": true,
+      "tags": [
+        "AI",
+        "ROI",
+        "Finance",
+        "CFO",
+        "Protiviti",
+        "Capital Allocation"
+      ],
+      "sources": []
+    },
     {
       "id": "future-cfo-2035-2026-08-30",
       "title": "AI ROI Paradox in Finance",
