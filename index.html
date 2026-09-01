@@ -6,17 +6,13 @@
   <title>Future CFO 2035 | Preparing Business Students for the AI-Powered Economy</title>
   <meta name="description" content="Daily educational episodes for future CFOs. Created and Copyright by Dr. Debasis Pahi. All rights reserved." />
   <meta name="robots" content="noarchive, nosnippet, noimageindex" />
-  <meta property="og:title" content="Future CFO 2035" />
-  <meta property="og:description" content="Created and Copyright by Dr. Debasis Pahi" />
-  <meta property="og:type" content="website" />
   <style>
     :root {
-      --navy: #060D18; --navy-soft: #0C1A2E; --teal: #14B8A6; --teal-dark: #0F766E;
+      --navy: #060D18; --navy-soft: #0C1A2E; --teal: #14B8A6;
       --text: #E2E8F0; --text-muted: #94A3B8; --text-dim: #64748B;
       --card: #0F1C2E; --border: #1E2D42; --bg: #060D18; --warn: #F59E0B;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
       background: var(--bg); color: var(--text); line-height: 1.65;
@@ -58,8 +54,8 @@
     .btn {
       display: inline-flex; align-items: center; justify-content: center; gap: 0.35rem;
       padding: 0.6rem 1.05rem; border-radius: 8px; font-size: 0.9rem; font-weight: 560;
-      text-decoration: none; border: 1px solid var(--border); background: var(--navy-soft);
-      color: var(--text); min-height: 44px; cursor: pointer;
+      border: 1px solid var(--border); background: var(--navy-soft); color: var(--text);
+      min-height: 44px; cursor: pointer;
     }
     .btn:hover { border-color: var(--teal); color: var(--teal); }
     .btn-primary { background: var(--teal); color: #042F2E; border-color: var(--teal); font-weight: 650; }
@@ -68,29 +64,23 @@
       font-size: 1.15rem; font-weight: 650; color: #fff; margin-bottom: 1.15rem;
       padding-bottom: 0.5rem; border-bottom: 2px solid var(--teal); display: inline-block;
     }
-    .about-card p, .contact-card p { font-size: 1.02rem; color: var(--text); margin-bottom: 1rem; line-height: 1.65; }
-    .about-card ul { margin: 0.8rem 0 1.2rem 1.2rem; color: var(--text); }
-    .about-card li { margin-bottom: 0.4rem; font-size: 1rem; }
+    .about-card p, .contact-card p { font-size: 1.02rem; margin-bottom: 1rem; line-height: 1.65; }
     .contact-links { display: flex; flex-direction: column; gap: 0.7rem; margin-top: 1rem; }
-    .contact-links a { color: var(--teal); text-decoration: none; font-size: 1.02rem; font-weight: 500; }
+    .contact-links a { color: var(--teal); text-decoration: none; font-size: 1.02rem; }
     footer {
       text-align: center; padding: 1.8rem 1.2rem; color: var(--text-dim); font-size: 0.85rem;
       border-top: 1px solid var(--border); background: var(--navy-soft);
     }
     footer a { color: var(--teal); text-decoration: none; }
-    .footer-copyright {
-      margin-top: 0.9rem; padding-top: 0.9rem; border-top: 1px solid var(--border);
-      font-size: 0.75rem; color: var(--text-dim); line-height: 1.5;
-    }
+    .footer-copyright { margin-top: 0.9rem; padding-top: 0.9rem; border-top: 1px solid var(--border); font-size: 0.75rem; line-height: 1.5; }
     .loading { text-align: center; padding: 2.5rem 1rem; color: var(--text-muted); }
     .player-box {
       margin-top: 1rem; padding: 1rem; background: var(--navy-soft);
       border: 1px solid var(--border); border-radius: 10px;
     }
-    .player-box audio { width: 100%; margin-top: 0.5rem; border-radius: 6px; }
+    .player-box video, .player-box audio { width: 100%; margin-top: 0.5rem; border-radius: 8px; background: #000; }
     .player-label { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.4rem; }
     .view-note { font-size: 0.78rem; color: var(--text-dim); margin-top: 0.6rem; font-style: italic; }
-
     .modal-overlay {
       display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.88);
       z-index: 1000; align-items: center; justify-content: center; padding: 1rem;
@@ -106,34 +96,23 @@
     }
     .modal-header h3 { font-size: 0.95rem; color: #fff; margin: 0; max-width: 80%; }
     .modal-close { background: none; border: none; color: var(--text-muted); font-size: 1.5rem; cursor: pointer; }
-    .modal-close:hover { color: #fff; }
-    .modal-body { flex: 1; overflow: hidden; position: relative; }
+    .modal-body { flex: 1; overflow: hidden; }
     .modal-body iframe { width: 100%; height: 100%; border: none; }
     .modal-footer-note {
       padding: 0.5rem 1rem; font-size: 0.72rem; color: var(--warn); text-align: center;
       border-top: 1px solid var(--border); background: #1a1205;
     }
-    /* Overlay to reduce easy right-click on PDF area (imperfect) */
-    .pdf-guard {
-      position: absolute; inset: 0; z-index: 2; pointer-events: none;
-    }
-
     @media print {
       body * { display: none !important; }
       body::before {
-        content: "\00a9 Future CFO 2035 \2014 Created and Copyright by Dr. Debasis Pahi. All rights reserved. Printing is prohibited.";
-        display: block !important; padding: 2rem; font-size: 14pt; color: #000; text-align: center;
+        content: "Copyright Future CFO 2035 - Dr. Debasis Pahi. Printing prohibited.";
+        display: block !important; padding: 2rem; text-align: center;
       }
     }
     @media (max-width: 640px) {
-      .header-inner { padding: 0.95rem 0.9rem 0; }
-      nav button { padding: 0.7rem 0.85rem; font-size: 0.88rem; }
-      .container { padding: 1.2rem 0.85rem 2.8rem; }
-      .featured, .episode-card, .about-card, .contact-card { padding: 1.2rem 1rem; }
       .actions { flex-direction: column; }
       .btn { width: 100%; min-height: 48px; }
       .modal-content { height: 95vh; }
-      .copyright-banner { font-size: 0.65rem; }
     }
   </style>
 </head>
@@ -143,11 +122,11 @@
       <h1>Future CFO 2035</h1>
       <p class="subtitle">Preparing the World's Business Students for the AI-Powered Economy</p>
       <p class="brand">Created and Copyright by Dr. Debasis Pahi</p>
-      <p class="affiliation">Assistant Professor, Model Degree College Malkangiri \u00b7 Ph.D., IIT Kharagpur<br>Research: Corporate Governance \u00b7 Capital Structure \u00b7 ESG & Sustainable Finance</p>
+      <p class="affiliation">Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur<br>Research: Corporate Governance · Capital Structure · ESG & Sustainable Finance</p>
     </div>
     <div class="copyright-banner">
-      \u00a9 2025\u20132026 Future CFO 2035 \u00b7 Created and Copyright by Dr. Debasis Pahi \u00b7 All rights reserved.
-      Viewing only. Saving, downloading, printing, copying or redistribution is strictly prohibited.
+      © 2025–2026 Future CFO 2035 · Created and Copyright by Dr. Debasis Pahi · All rights reserved.
+      Viewing only. Saving, downloading, printing or redistribution is strictly prohibited.
     </div>
     <nav>
       <button class="active" data-page="home">Home</button>
@@ -161,86 +140,58 @@
     <div id="page-home" class="page active">
       <div id="featured"></div>
       <h2 class="section-title">Latest Episodes</h2>
-      <div id="home-episodes" class="loading">Loading episodes\u2026</div>
+      <div id="home-episodes" class="loading">Loading episodes…</div>
     </div>
     <div id="page-episodes" class="page">
       <h2 class="section-title">All Episodes</h2>
-      <div id="all-episodes" class="loading">Loading episodes\u2026</div>
+      <div id="all-episodes" class="loading">Loading episodes…</div>
     </div>
     <div id="page-about" class="page">
       <div class="about-card">
         <h2>About Future CFO 2035</h2>
-        <p>Future CFO 2035 is a daily educational content system for undergraduate, MBA, finance, accounting, economics and business analytics students worldwide.</p>
-        <p><strong>Core Philosophy</strong></p>
-        <p>AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.</p>
-        <p style="margin-top:1.3rem"><strong>Created and Copyright by Dr. Debasis Pahi</strong></p>
-        <p>Assistant Professor, Model Degree College Malkangiri<br>Ph.D., Indian Institute of Technology Kharagpur</p>
-        <p style="margin-top:1rem;font-size:0.9rem;color:var(--warn);">
-          \u00a9 All content is the intellectual property of Dr. Debasis Pahi. Unauthorised downloading, printing, copying or commercial use is strictly prohibited.
-        </p>
+        <p>Daily educational system for business, finance and accounting students worldwide.</p>
+        <p><strong>Core Philosophy:</strong> AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.</p>
+        <p style="margin-top:1.2rem"><strong>Created and Copyright by Dr. Debasis Pahi</strong><br>
+        Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur</p>
+        <p style="margin-top:1rem;font-size:0.9rem;color:var(--warn);">© All content is intellectual property of Dr. Debasis Pahi. Unauthorised use is prohibited.</p>
       </div>
     </div>
     <div id="page-contact" class="page">
       <div class="contact-card">
-        <h2>Contact & Connect</h2>
+        <h2>Contact</h2>
         <p><strong>Dr. Debasis Pahi</strong><br>Assistant Professor, Model Degree College Malkangiri<br>Ph.D., IIT Kharagpur</p>
         <div class="contact-links">
-          <a href="mailto:drdebasis.research@gmail.com">\u2709 drdebasis.research@gmail.com</a>
-          <a href="https://www.linkedin.com/in/dr-debasis-pahi" target="_blank">LinkedIn</a>
-          <a href="https://www.instagram.com/drdebasispahi" target="_blank">Instagram \u2014 @drdebasispahi</a>
-          <a href="https://www.youtube.com/@dpklass1990" target="_blank">YouTube \u2014 @dpklass1990</a>
+          <a href="mailto:drdebasis.research@gmail.com">✉ drdebasis.research@gmail.com</a>
+          <a href="https://www.youtube.com/@dpklass1990" target="_blank">YouTube</a>
           <a href="https://scholar.google.com/citations?user=XBEHNeUAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
-          <a href="https://www.scopus.com/authid/detail.uri?authorId=57207845384" target="_blank">Scopus</a>
         </div>
       </div>
     </div>
   </div>
 
   <footer>
-    <p><strong>Future CFO 2035</strong></p>
-    <p style="margin-top:0.35rem">Created and Copyright by <strong>Dr. Debasis Pahi</strong></p>
-    <p style="margin-top:0.25rem;font-size:0.82rem">Assistant Professor, Model Degree College Malkangiri \u00b7 Ph.D., IIT Kharagpur</p>
+    <p><strong>Future CFO 2035</strong> · Created and Copyright by <strong>Dr. Debasis Pahi</strong></p>
     <div class="footer-copyright">
-      \u00a9 2025\u20132026 Future CFO 2035. Created and Copyright by Dr. Debasis Pahi. All rights reserved.<br>
-      Viewing is permitted for personal educational purposes only. Saving, downloading, printing, copying or commercial use is strictly prohibited.
+      © 2025–2026 Future CFO 2035. All rights reserved. View-only educational use. Saving, printing or downloading is prohibited.
     </div>
   </footer>
 
-  <!-- Unified Viewer Modal (PDF or PPT) -->
   <div class="modal-overlay" id="viewerModal">
     <div class="modal-content">
       <div class="modal-header">
         <h3 id="viewerTitle">Viewer</h3>
         <button class="modal-close" onclick="closeViewer()">&times;</button>
       </div>
-      <div class="modal-body">
-        <iframe id="viewerFrame" src="" title="Content Viewer" allowfullscreen></iframe>
-      </div>
-      <div class="modal-footer-note">
-        \u00a9 Created and Copyright by Dr. Debasis Pahi \u00b7 View only \u00b7 Saving, printing or downloading is prohibited
-      </div>
+      <div class="modal-body"><iframe id="viewerFrame" src="" title="Viewer" allowfullscreen></iframe></div>
+      <div class="modal-footer-note">© Dr. Debasis Pahi · View only · Saving / printing / downloading prohibited</div>
     </div>
   </div>
 
   <script>
     document.addEventListener('contextmenu', e => e.preventDefault());
-
     document.addEventListener('keydown', function(e) {
-      if ((e.ctrlKey || e.metaKey) && (e.key === 's' || e.key === 'p' || e.key === 'u')) {
-        e.preventDefault();
-        if (e.key === 's' || e.key === 'p') {
-          alert('This action is disabled. Content is protected by copyright \u00a9 Dr. Debasis Pahi.');
-        }
-        return false;
-      }
-      if (e.key === 'F12' || ((e.ctrlKey || e.metaKey) && e.shiftKey && (e.key === 'I' || e.key === 'J' || e.key === 'C'))) {
-        e.preventDefault();
-        return false;
-      }
-      if ((e.ctrlKey || e.metaKey) && e.key === 'a') {
-        e.preventDefault();
-        return false;
-      }
+      if ((e.ctrlKey || e.metaKey) && ['s','p','u','a'].includes(e.key)) { e.preventDefault(); return false; }
+      if (e.key === 'F12' || ((e.ctrlKey || e.metaKey) && e.shiftKey && ['I','J','C'].includes(e.key))) { e.preventDefault(); return false; }
     });
 
     document.querySelectorAll('nav button').forEach(btn => {
@@ -262,66 +213,62 @@
 
     function openPdfViewer(url, title) {
       document.getElementById('viewerTitle').textContent = title || 'Case Study';
-      // toolbar=0 hides some browser PDF chrome (not perfect)
-      document.getElementById('viewerFrame').src = absoluteUrl(url) + '#toolbar=0&navpanes=0&scrollbar=1';
+      document.getElementById('viewerFrame').src = absoluteUrl(url) + '#toolbar=0&navpanes=0';
       document.getElementById('viewerModal').classList.add('active');
       document.body.style.overflow = 'hidden';
     }
-
     function openPptViewer(url, title) {
       document.getElementById('viewerTitle').textContent = title || 'Presentation';
-      const full = encodeURIComponent(absoluteUrl(url));
-      // Microsoft Office Online embed (view-only)
-      document.getElementById('viewerFrame').src = 'https://view.officeapps.live.com/op/embed.aspx?src=' + full;
+      document.getElementById('viewerFrame').src = 'https://view.officeapps.live.com/op/embed.aspx?src=' + encodeURIComponent(absoluteUrl(url));
       document.getElementById('viewerModal').classList.add('active');
       document.body.style.overflow = 'hidden';
     }
-
     function closeViewer() {
       document.getElementById('viewerModal').classList.remove('active');
       document.getElementById('viewerFrame').src = '';
       document.body.style.overflow = '';
     }
-
-    document.getElementById('viewerModal').addEventListener('click', (e) => {
-      if (e.target.id === 'viewerModal') closeViewer();
-    });
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') closeViewer();
-    });
+    document.getElementById('viewerModal').addEventListener('click', e => { if (e.target.id === 'viewerModal') closeViewer(); });
+    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeViewer(); });
 
     function renderEpisode(ep, isFeatured = false) {
-      let audioHtml = '';
-      if (ep.audio) {
-        audioHtml = `
+      let mediaHtml = '';
+      // Prefer synced video when available (Option A)
+      if (ep.video) {
+        mediaHtml = `
           <div class="player-box">
-            <div class="player-label">\ud83c\udfa7 Audio Lesson (View Only)</div>
+            <div class="player-label">▶ Full Lesson (Slides + Voiceover in Sync)</div>
+            <video controls controlsList="nodownload noplaybackrate" oncontextmenu="return false;" playsinline>
+              <source src="${ep.video}" type="video/mp4">
+            </video>
+            <div class="view-note">View only · Download disabled · © Dr. Debasis Pahi</div>
+          </div>`;
+      } else if (ep.audio) {
+        mediaHtml = `
+          <div class="player-box">
+            <div class="player-label">🎧 Audio Lesson (View Only)</div>
             <audio controls controlsList="nodownload noplaybackrate" oncontextmenu="return false;">
               <source src="${ep.audio}" type="audio/mpeg">
             </audio>
-            <div class="view-note">Streaming only \u00b7 Download / save / print disabled</div>
+            <div class="view-note">Streaming only · Download disabled</div>
           </div>`;
       }
 
       const buttons = [];
-      if (ep.pdf) {
-        buttons.push(`<button class="btn btn-primary" onclick="openPdfViewer('${ep.pdf}', '${(ep.title||'').replace(/'/g, "\\'")}')">\ud83d\udcc4 View Case Study</button>`);
-      }
-      if (ep.presentation) {
-        buttons.push(`<button class="btn" onclick="openPptViewer('${ep.presentation}', '${(ep.title||'').replace(/'/g, "\\'")}')">\ud83d\udcca View Presentation</button>`);
-      }
+      if (ep.pdf) buttons.push(`<button class="btn btn-primary" onclick="openPdfViewer('${ep.pdf}', '${(ep.title||'').replace(/'/g,"\\'")}')">📄 View Case Study</button>`);
+      if (ep.presentation) buttons.push(`<button class="btn" onclick="openPptViewer('${ep.presentation}', '${(ep.title||'').replace(/'/g,"\\'")}')">📊 View Presentation</button>`);
 
       return `
         <div class="${isFeatured ? 'featured' : 'episode-card'}">
           ${isFeatured ? '<div class="label">Featured Episode</div>' : ''}
           <h2>${ep.title}</h2>
           <div class="meta">
-            <span>${ep.date}</span>
+            <span>${ep.date || ''}</span>
             ${ep.category ? `<span>${ep.category}</span>` : ''}
             ${ep.duration ? `<span>${ep.duration}</span>` : ''}
           </div>
           <p class="description">${ep.description || ep.subtitle || ''}</p>
-          ${audioHtml}
+          ${mediaHtml}
           <div class="actions">${buttons.join('')}</div>
         </div>`;
     }
@@ -331,21 +278,16 @@
         const res = await fetch('data/episodes.json?t=' + Date.now());
         const data = await res.json();
         const episodes = data.episodes || [];
-        const featuredEl = document.getElementById('featured');
-        const homeList = document.getElementById('home-episodes');
-        const allList = document.getElementById('all-episodes');
-
-        if (episodes.length === 0) {
-          homeList.innerHTML = allList.innerHTML = '<p style="color:var(--text-muted)">No episodes published yet.</p>';
+        if (!episodes.length) {
+          document.getElementById('home-episodes').innerHTML = document.getElementById('all-episodes').innerHTML = '<p style="color:var(--text-muted)">No episodes yet.</p>';
           return;
         }
         const featured = episodes.find(e => e.featured) || episodes[0];
-        featuredEl.innerHTML = renderEpisode(featured, true);
-        homeList.innerHTML = episodes.slice(0, 5).map(ep => renderEpisode(ep)).join('');
-        allList.innerHTML = episodes.map(ep => renderEpisode(ep)).join('');
+        document.getElementById('featured').innerHTML = renderEpisode(featured, true);
+        document.getElementById('home-episodes').innerHTML = episodes.slice(0, 5).map(e => renderEpisode(e)).join('');
+        document.getElementById('all-episodes').innerHTML = episodes.map(e => renderEpisode(e)).join('');
       } catch (err) {
         document.getElementById('home-episodes').innerHTML = '<p style="color:#f87171">Unable to load episodes.</p>';
-        console.error(err);
       }
     }
     loadEpisodes();
