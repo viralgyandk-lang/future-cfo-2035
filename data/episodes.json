@@ -1,22 +1,79 @@
 {
-  "generated_at": "2026-08-31T03:13:00+00:00",
-  "total_episodes": 3,
+  "generated_at": "2026-09-01T00:27:17.478902+00:00",
+  "total_episodes": 4,
   "episodes": [
+    {
+      "id": "future-cfo-2035-2026-09-01",
+      "title": "The Calendar Decision: Should a CFO Elect Semiannual Reporting?",
+      "subtitle": "SEC File No. S7-2026-15, a 97 percent comment-file revolt, and the board posture that will not wait",
+      "date": "2026-09-01",
+      "category": "Corporate Governance",
+      "topics": [
+        "SEC disclosure",
+        "Quarterly reporting",
+        "Form 10-Q",
+        "Form 10-S",
+        "Cost of capital",
+        "Investor relations",
+        "Internal control attestation"
+      ],
+      "description": "An HBS-style case set on 1 September 2026. After the SEC proposed letting U.S. public companies replace Form 10-Q with a semiannual Form 10-S, and after a historically lopsided comment file closed 97 percent opposed, a mid-cap industrial CFO must recommend whether her board should pre-commit to quarterly reporting, prepare to elect, wait for a first cohort, or set a liquidity trigger. Real Commission statements, comment statistics, and CFA survey findings are woven through a teaching composite so students decide.",
+      "thumbnail": "",
+      "presentation": "episodes/2026/09/2026-09-01-semiannual-reporting-election/presentation.pptx",
+      "pdf": "episodes/2026/09/2026-09-01-semiannual-reporting-election/learning-brief.pdf",
+      "audio": "episodes/2026/09/2026-09-01-semiannual-reporting-election/voiceover.mp3",
+      "duration": "6 minutes 44 seconds",
+      "featured": true,
+      "tags": [
+        "SEC",
+        "10-Q",
+        "semiannual reporting",
+        "corporate governance",
+        "CFO",
+        "disclosure",
+        "Paul Atkins",
+        "Make IPOs Great Again"
+      ],
+      "sources": [
+        "Uyeda, M. T. (2026, May 5). Statement on proposing semiannual reporting. U.S. Securities and Exchange Commission.",
+        "Reuters (2026, May 5). US SEC proposes allowing public companies to opt out of quarterly earnings reports.",
+        "CFO Dive (2026, May 5). SEC unveils blueprint for ditching quarterly reporting.",
+        "InvestmentNews (2026, July 10). SEC’s quarterly reporting retreat meets an investor revolt.",
+        "Harvard Law School Forum on Corporate Governance (2026, August 6). Beyond the filing calendar.",
+        "Lexology (2026, August 12). SEC semiannual reporting: record opposition, but SEC intends to move forward.",
+        "Forbes CFO (2026, July 28). Why quarterly reports aren’t going away, regardless of SEC rules.",
+        "Smith, T. J., and Rennison, J. (2026, August 28). SEC proposes shift to profit reporting. The New York Times.",
+        "Crist Kolder Associates / Fortune (2026, August 21). CFO turnover on pace for 18.3 percent."
+      ]
+    },
     {
       "id": "future-cfo-2035-2026-08-31",
       "title": "AI ROI Blind Spot: Protiviti Survey",
       "subtitle": "Why many finance leaders still struggle to measure returns on AI investments",
       "date": "2026-08-31",
       "category": "Corporate Finance",
-      "topics": ["Artificial Intelligence", "ROI", "Capital Allocation", "Finance", "Strategy"],
+      "topics": [
+        "Artificial Intelligence",
+        "ROI",
+        "Capital Allocation",
+        "Finance",
+        "Strategy"
+      ],
       "description": "A recent Protiviti survey highlights a critical blind spot: while organisations continue to invest heavily in AI, many CFOs and finance teams still lack clear frameworks to measure and report AI returns. This episode helps students understand how future finance leaders should approach AI investment decisions, measurement, and governance.",
       "thumbnail": "",
-      "presentation": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/Future_CFO_Daily_2026-08-31.pptx",
-      "pdf": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/Future_CFO_Daily_2026-08-31.pdf",
-      "audio": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/Future_CFO_Daily_2026-08-31_Indian_English.mp3",
+      "presentation": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/presentation.pptx",
+      "pdf": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/learning-brief.pdf",
+      "audio": "episodes/2026/08/2026-08-31-ai-roi-blind-spot-protiviti/voiceover.mp3",
       "duration": "8 minutes",
       "featured": true,
-      "tags": ["AI", "ROI", "Finance", "CFO", "Protiviti", "Capital Allocation"],
+      "tags": [
+        "AI",
+        "ROI",
+        "Finance",
+        "CFO",
+        "Protiviti",
+        "Capital Allocation"
+      ],
       "sources": []
     },
     {
@@ -25,15 +82,28 @@
       "subtitle": "When heavy AI investment meets uncertain returns — what should a CFO do?",
       "date": "2026-08-30",
       "category": "Corporate Finance",
-      "topics": ["Artificial Intelligence", "ROI", "Capital Allocation", "Finance", "Strategy"],
+      "topics": [
+        "Artificial Intelligence",
+        "ROI",
+        "Capital Allocation",
+        "Finance",
+        "Strategy"
+      ],
       "description": "Today’s episode examines the growing paradox facing finance leaders: significant investment in AI tools and infrastructure is being made, yet clear, measurable returns remain elusive for many organisations. Students learn how a CFO should evaluate AI spend, measure value, and decide when to scale or pause.",
       "thumbnail": "",
       "presentation": "episodes/2026/08/2026-08-30-ai-roi-paradox-in-finance/presentation.pptx",
       "pdf": "episodes/2026/08/2026-08-30-ai-roi-paradox-in-finance/learning-brief.pdf",
       "audio": "episodes/2026/08/2026-08-30-ai-roi-paradox-in-finance/voiceover.mp3",
       "duration": "8 minutes",
-      "featured": false,
-      "tags": ["AI", "ROI", "Finance", "CFO", "Capital Allocation", "Strategy"],
+      "featured": true,
+      "tags": [
+        "AI",
+        "ROI",
+        "Finance",
+        "CFO",
+        "Capital Allocation",
+        "Strategy"
+      ],
       "sources": []
     },
     {
@@ -42,15 +112,29 @@
       "subtitle": "NVIDIA’s Record Quarter and the Off-Balance-Sheet AI Infrastructure Commitments of the AI-7",
       "date": "2026-08-29",
       "category": "Corporate Finance",
-      "topics": ["Artificial Intelligence", "Capital Allocation", "Accounting", "Off-Balance-Sheet Commitments", "NVIDIA"],
+      "topics": [
+        "Artificial Intelligence",
+        "Capital Allocation",
+        "Accounting",
+        "Off-Balance-Sheet Commitments",
+        "NVIDIA"
+      ],
       "description": "NVIDIA reported record Q2 FY2027 results while research revealed that the AI-7 companies now carry approximately $3.2 trillion in contractual commitments largely sitting in footnotes. This episode teaches students how to read true committed capital, utilisation risk, and the difference between reported leverage and reality.",
       "thumbnail": "",
-      "presentation": "episodes/2026/08/2026-08-29-the-3-2-trillion-question/Future_CFO_Daily_2026-08-29.pptx",
-      "pdf": "episodes/2026/08/2026-08-29-the-3-2-trillion-question/Future_CFO_Daily_2026-08-29.pdf",
-      "audio": "episodes/2026/08/2026-08-29-the-3-2-trillion-question/Future_CFO_Daily_2026-08-29_Indian_English.mp3",
+      "presentation": "episodes/2026/08/2026-08-29-the-3-2-trillion-question/presentation.pptx",
+      "pdf": "episodes/2026/08/2026-08-29-the-3-2-trillion-question/learning-brief.pdf",
+      "audio": "episodes/2026/08/2026-08-29-the-3-2-trillion-question/voiceover.mp3",
       "duration": "8 minutes",
-      "featured": false,
-      "tags": ["AI", "Finance", "Accounting", "CFO", "NVIDIA", "Commitments", "Footnotes"],
+      "featured": true,
+      "tags": [
+        "AI",
+        "Finance",
+        "Accounting",
+        "CFO",
+        "NVIDIA",
+        "Commitments",
+        "Footnotes"
+      ],
       "sources": [
         "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027, NVIDIA Newsroom, 26 August 2026",
         "NVIDIA Form 10-Q for the quarterly period ended 26 July 2026",
