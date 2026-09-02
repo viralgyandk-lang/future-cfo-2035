@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T00:17:52.024411+00:00",
-  "total_episodes": 5,
+  "generated_at": "2026-09-02T00:26:36.180558+00:00",
+  "total_episodes": 6,
   "episodes": [
     {
       "id": "future-cfo-2035-2026-09-02",
@@ -44,6 +44,55 @@
         "Reserve Bank of India. Climate Risk Information System (RB-CRIS).",
         "ESG source. ISSB Adoption Tracker: Which Countries Require IFRS S1 and S2 in 2026. 1 September 2026.",
         "Sinha, Vaishali Nigam. Emerging Geographies are Leading Green Disclosures. Forbes, 3 August 2026."
+      ]
+    },
+    {
+      "id": "future-cfo-2035-2026-09-02",
+      "title": "The Reporting Map Is Not One Map",
+      "subtitle": "How a global CFO files climate data when Washington proposes rescission, Sacramento still wants Scope 1 and 2 by 10 November, and ISSB keeps spreading",
+      "date": "2026-09-02",
+      "category": "ESG & Sustainable Finance",
+      "topics": [
+        "Climate disclosure",
+        "IFRS S1 and S2",
+        "California SB 253",
+        "SEC climate rule rescission",
+        "CSRD Omnibus I",
+        "CFO judgment",
+        "Assurance"
+      ],
+      "description": "An HBS-style teaching case set on 2 September 2026. After the SEC proposed full rescission of its 2024 climate rules and CARB moved the first SB 253 Scope 1 and 2 filing to 10 November 2026, a composite mid-cap industrial CFO must choose a reporting architecture across California, ISSB markets, and a narrowed CSRD. Real Commission releases, CARB notices, Council votes and Faber’s Frankfurt count are woven through a classroom decision.",
+      "thumbnail": "",
+      "presentation": "episodes/2026/09/2026-09-02-reporting-map-is-not-one-map/presentation.pptx",
+      "pdf": "episodes/2026/09/2026-09-02-reporting-map-is-not-one-map/learning-brief.pdf",
+      "audio": "episodes/2026/09/2026-09-02-reporting-map-is-not-one-map/voiceover.mp3",
+      "duration": "6 minutes 55 seconds",
+      "featured": true,
+      "tags": [
+        "ISSB",
+        "IFRS S2",
+        "SB 253",
+        "SEC",
+        "CSRD",
+        "Omnibus I",
+        "CFO",
+        "climate disclosure",
+        "Future CFO 2035"
+      ],
+      "sources": [
+        "U.S. Securities and Exchange Commission. (2026, May 29). SEC proposes rescission of climate-related disclosure rules (Press Release 2026-49).",
+        "U.S. Securities and Exchange Commission. (2026, May 29). Rescission of Climate-Related Disclosure Rules, Release No. 33-11421.",
+        "Atkins, P. S. (2026, May 29). Statement on proposing release for rescission of climate-related disclosure rules.",
+        "Uyeda, M. T. (2026, May 29). Statement on the rescission of climate-related disclosure rules.",
+        "California Air Resources Board. (2026, June 24). Notice moving the SB 253 Scope 1 and 2 deadline to 10 November 2026.",
+        "Council of the European Union. (2026, February 24). Press Release 116/26 on Omnibus I simplification of CSRD and CS3D.",
+        "Directive (EU) 2026/470, Official Journal 26 February 2026 (in force 18 March 2026).",
+        "Faber, E. (2026, May 29). Speech at the 2026 Frankfurt Sustainability Standards Conference. IFRS Foundation.",
+        "UK Department for Business and Trade. (2026, February 25). UK Sustainability Reporting Standards S1 and S2.",
+        "Financial Conduct Authority. (2026, January 30). CP26/5 on UK SRS for listed issuers.",
+        "Strickland, B. (2026, June 29). Standardization of sustainability reporting improves, but obstacles remain. Journal of Accountancy.",
+        "IFRS Foundation. (updated 16 July 2026). Use of IFRS Sustainability Disclosure Standards by jurisdiction.",
+        "IAS Plus / Deloitte. (updated 29 July 2026). Adoption of IFRS Sustainability Disclosure Standards by jurisdiction."
       ]
     },
     {
