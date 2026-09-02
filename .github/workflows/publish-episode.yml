@@ -21,10 +21,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Validate episodes and update index
+      - name: Build episodes index from metadata + actual files
         run: |
           python << 'EOF'
-          import os
           import json
           from pathlib import Path
           from datetime import datetime, timezone
@@ -33,82 +32,124 @@ jobs:
           EPISODES_DIR = ROOT / 'episodes'
           INDEX_PATH = ROOT / 'data' / 'episodes.json'
 
-          required_files = ['presentation.pptx', 'learning-brief.pdf', 'voiceover.mp3', 'metadata.json']
+          def pick_file(episode_dir: Path, meta_value: str, patterns: list[str]) -> str:
+              """Prefer metadata filename if it exists; else first matching pattern."""
+              if meta_value:
+                  candidate = episode_dir / Path(meta_value).name
+                  if candidate.exists():
+                      return candidate.name
+              for pattern in patterns:
+                  matches = sorted(episode_dir.glob(pattern))
+                  if matches:
+                      return matches[0].name
+              return ''
 
           episodes = []
-          errors = []
+          notes = []
 
-          for year_dir in sorted(EPISODES_DIR.glob('[0-9][0-9][0-9][0-9]'), reverse=True):
-              for month_dir in sorted(year_dir.glob('[0-9][0-9]'), reverse=True):
-                  for episode_dir in sorted(month_dir.iterdir(), reverse=True):
-                      if not episode_dir.is_dir():
-                          continue
+          if not EPISODES_DIR.exists():
+              print('No episodes/ directory found.')
+          else:
+              for year_dir in sorted(EPISODES_DIR.glob('[0-9][0-9][0-9][0-9]'), reverse=True):
+                  for month_dir in sorted(year_dir.glob('[0-9][0-9]'), reverse=True):
+                      for episode_dir in sorted(
+                          [p for p in month_dir.iterdir() if p.is_dir()],
+                          key=lambda p: p.name,
+                          reverse=True,
+                      ):
+                          meta_path = episode_dir / 'metadata.json'
+                          if not meta_path.exists():
+                              notes.append(f'Skip (no metadata.json): {episode_dir}')
+                              continue
 
-                      meta_path = episode_dir / 'metadata.json'
-                      if not meta_path.exists():
-                          errors.append(f'Missing metadata.json in {episode_dir}')
-                          continue
+                          try:
+                              meta = json.loads(meta_path.read_text(encoding='utf-8'))
+                          except Exception as e:
+                              notes.append(f'Skip (bad JSON): {meta_path}: {e}')
+                              continue
 
-                      try:
-                          with open(meta_path, 'r', encoding='utf-8') as f:
-                              meta = json.load(f)
-                      except Exception as e:
-                          errors.append(f'Invalid JSON in {meta_path}: {e}')
-                          continue
+                          if not meta.get('id') or not meta.get('title') or not meta.get('date'):
+                              notes.append(f'Skip (missing id/title/date): {meta_path}')
+                              continue
 
-                      # Required fields
-                      required_fields = ['id', 'title', 'date']
-                      for field in required_fields:
-                          if not meta.get(field):
-                              errors.append(f'Missing required field "{field}" in {meta_path}')
+                          rel = episode_dir.as_posix()
 
-                      # Check required media files
-                      for fname in required_files:
-                          if not (episode_dir / fname).exists():
-                              errors.append(f'Missing {fname} in {episode_dir}')
+                          ppt_name = pick_file(
+                              episode_dir,
+                              meta.get('presentation', ''),
+                              ['Future_CFO_Daily_*.pptx', 'presentation.pptx', '*.pptx'],
+                          )
+                          pdf_name = pick_file(
+                              episode_dir,
+                              meta.get('pdf', ''),
+                              ['Future_CFO_Daily_*.pdf', 'learning-brief.pdf', '*.pdf'],
+                          )
+                          # Prefer voiceover mp3, not any random pdf-named collision
+                          audio_name = pick_file(
+                              episode_dir,
+                              meta.get('audio', ''),
+                              ['Future_CFO_Daily_*_Indian_English.mp3', 'Future_CFO_Daily_*.mp3', 'voiceover.mp3', '*.mp3'],
+                          )
+                          video_name = pick_file(
+                              episode_dir,
+                              meta.get('video', ''),
+                              ['Future_CFO_Daily_*_Synced.mp4', 'Future_CFO_Daily_*.mp4', 'synced-lesson.mp4', '*.mp4'],
+                          )
 
-                      # Build relative paths
-                      rel = episode_dir.as_posix()
-                      episode_entry = {
-                          'id': meta.get('id'),
-                          'title': meta.get('title'),
-                          'subtitle': meta.get('subtitle', ''),
-                          'date': meta.get('date'),
-                          'category': meta.get('category', ''),
-                          'topics': meta.get('topics', []),
-                          'description': meta.get('description', ''),
-                          'thumbnail': f'{rel}/thumbnail.jpg' if (episode_dir / 'thumbnail.jpg').exists() else '',
-                          'presentation': f'{rel}/presentation.pptx',
-                          'pdf': f'{rel}/learning-brief.pdf',
-                          'audio': f'{rel}/voiceover.mp3',
-                          'duration': meta.get('duration', ''),
-                          'featured': bool(meta.get('featured', False)),
-                          'tags': meta.get('tags', []),
-                          'sources': meta.get('sources', [])
-                      }
-                      episodes.append(episode_entry)
+                          # Skip pure placeholders with no media at all
+                          if not any([ppt_name, pdf_name, audio_name, video_name]):
+                              notes.append(f'Skip (no media files yet): {episode_dir}')
+                              continue
 
-          if errors:
-              print('VALIDATION ERRORS:')
-              for e in errors:
-                  print(f'  - {e}')
-              # Do not fail the build for missing optional files during early stage
-              # raise SystemExit(1)
+                          entry = {
+                              'id': meta.get('id'),
+                              'title': meta.get('title'),
+                              'subtitle': meta.get('subtitle', ''),
+                              'date': meta.get('date'),
+                              'category': meta.get('category', ''),
+                              'topics': meta.get('topics', []),
+                              'description': meta.get('description', ''),
+                              'thumbnail': f'{rel}/thumbnail.jpg' if (episode_dir / 'thumbnail.jpg').exists() else '',
+                              'presentation': f'{rel}/{ppt_name}' if ppt_name else '',
+                              'pdf': f'{rel}/{pdf_name}' if pdf_name else '',
+                              'audio': f'{rel}/{audio_name}' if audio_name else '',
+                              'duration': meta.get('duration', ''),
+                              'featured': bool(meta.get('featured', False)),
+                              'tags': meta.get('tags', []),
+                              'sources': meta.get('sources', []),
+                          }
+                          if video_name:
+                              entry['video'] = f'{rel}/{video_name}'
 
-          # Sort newest first
+                          episodes.append(entry)
+                          print(f'Indexed: {entry["date"]} | {entry["title"][:60]} | video={bool(video_name)}')
+
+          # Newest first; only one featured (the newest with featured=true wins later in UI)
           episodes.sort(key=lambda x: x.get('date', ''), reverse=True)
+
+          # Ensure only the newest episode is featured if multiple claim featured
+          featured_seen = False
+          for ep in episodes:
+              if ep.get('featured'):
+                  if featured_seen:
+                      ep['featured'] = False
+                  else:
+                      featured_seen = True
 
           index = {
               'generated_at': datetime.now(timezone.utc).isoformat(),
               'total_episodes': len(episodes),
-              'episodes': episodes
+              'episodes': episodes,
           }
 
           INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
-          with open(INDEX_PATH, 'w', encoding='utf-8') as f:
-              json.dump(index, f, indent=2, ensure_ascii=False)
+          INDEX_PATH.write_text(json.dumps(index, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
 
-          print(f'Index updated successfully with {len(episodes)} episode(s).')
+          print(f'\nIndex written: {len(episodes)} episode(s).')
+          if notes:
+              print('Notes:')
+              for n in notes:
+                  print(f'  - {n}')
           EOF
 
       - name: Commit updated index
@@ -119,6 +160,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to index."
           else
-            git commit -m "chore: update episodes index [skip ci]"
+            git commit -m "chore: auto-update episodes index [skip ci]"
             git push
           fi
