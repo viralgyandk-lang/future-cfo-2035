@@ -1,4 +1,4 @@
-name: Publish Future CFO Episode
+name: Publish Future CFO_DP Episode
 
 on:
   push:
@@ -32,8 +32,7 @@ jobs:
           EPISODES_DIR = ROOT / 'episodes'
           INDEX_PATH = ROOT / 'data' / 'episodes.json'
 
-          def pick_file(episode_dir: Path, meta_value: str, patterns: list[str]) -> str:
-              """Prefer metadata filename if it exists; else first matching pattern."""
+          def pick_file(episode_dir: Path, meta_value: str, patterns: list) -> str:
               if meta_value:
                   candidate = episode_dir / Path(meta_value).name
                   if candidate.exists():
@@ -61,42 +60,32 @@ jobs:
                           if not meta_path.exists():
                               notes.append(f'Skip (no metadata.json): {episode_dir}')
                               continue
-
                           try:
                               meta = json.loads(meta_path.read_text(encoding='utf-8'))
                           except Exception as e:
                               notes.append(f'Skip (bad JSON): {meta_path}: {e}')
                               continue
-
                           if not meta.get('id') or not meta.get('title') or not meta.get('date'):
                               notes.append(f'Skip (missing id/title/date): {meta_path}')
                               continue
 
                           rel = episode_dir.as_posix()
 
-                          ppt_name = pick_file(
-                              episode_dir,
-                              meta.get('presentation', ''),
-                              ['Future_CFO_Daily_*.pptx', 'presentation.pptx', '*.pptx'],
-                          )
-                          pdf_name = pick_file(
-                              episode_dir,
-                              meta.get('pdf', ''),
-                              ['Future_CFO_Daily_*.pdf', 'learning-brief.pdf', '*.pdf'],
-                          )
-                          # Prefer voiceover mp3, not any random pdf-named collision
-                          audio_name = pick_file(
-                              episode_dir,
-                              meta.get('audio', ''),
-                              ['Future_CFO_Daily_*_Indian_English.mp3', 'Future_CFO_Daily_*.mp3', 'voiceover.mp3', '*.mp3'],
-                          )
-                          video_name = pick_file(
-                              episode_dir,
-                              meta.get('video', ''),
-                              ['Future_CFO_Daily_*_Synced.mp4', 'Future_CFO_Daily_*.mp4', 'synced-lesson.mp4', '*.mp4'],
-                          )
+                          ppt_name = pick_file(episode_dir, meta.get('presentation', ''), [
+                              'Future_CFO_DP_Daily_*.pptx', 'Future_CFO_Daily_*.pptx', 'presentation.pptx', '*.pptx'
+                          ])
+                          pdf_name = pick_file(episode_dir, meta.get('pdf', ''), [
+                              'Future_CFO_DP_Daily_*.pdf', 'Future_CFO_Daily_*.pdf', 'learning-brief.pdf', '*.pdf'
+                          ])
+                          audio_name = pick_file(episode_dir, meta.get('audio', ''), [
+                              'Future_CFO_DP_Daily_*_Indian_English.mp3', 'Future_CFO_Daily_*_Indian_English.mp3',
+                              'Future_CFO_DP_Daily_*.mp3', 'Future_CFO_Daily_*.mp3', 'voiceover.mp3', '*.mp3'
+                          ])
+                          video_name = pick_file(episode_dir, meta.get('video', ''), [
+                              'Future_CFO_DP_Daily_*_Synced.mp4', 'Future_CFO_Daily_*_Synced.mp4',
+                              'Future_CFO_DP_Daily_*.mp4', 'Future_CFO_Daily_*.mp4', 'synced-lesson.mp4', '*.mp4'
+                          ])
 
-                          # Skip pure placeholders with no media at all
                           if not any([ppt_name, pdf_name, audio_name, video_name]):
                               notes.append(f'Skip (no media files yet): {episode_dir}')
                               continue
@@ -124,10 +113,7 @@ jobs:
                           episodes.append(entry)
                           print(f'Indexed: {entry["date"]} | {entry["title"][:60]} | video={bool(video_name)}')
 
-          # Newest first; only one featured (the newest with featured=true wins later in UI)
           episodes.sort(key=lambda x: x.get('date', ''), reverse=True)
-
-          # Ensure only the newest episode is featured if multiple claim featured
           featured_seen = False
           for ep in episodes:
               if ep.get('featured'):
@@ -141,15 +127,11 @@ jobs:
               'total_episodes': len(episodes),
               'episodes': episodes,
           }
-
           INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
           INDEX_PATH.write_text(json.dumps(index, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
-
           print(f'\nIndex written: {len(episodes)} episode(s).')
-          if notes:
-              print('Notes:')
-              for n in notes:
-                  print(f'  - {n}')
+          for n in notes:
+              print(f'  - {n}')
           EOF
 
       - name: Commit updated index
