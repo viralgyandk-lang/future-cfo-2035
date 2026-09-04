@@ -1,0 +1,70 @@
+--- YOUTUBE PACK ---
+Title:
+IFRS 18 / Ind AS 118: When Operating Profit Changes | Future CFO_DP
+Description:
+IFRS 18 and the proposed Ind AS 118 will restyle the P&L for periods beginning on or after 1 January 2027 globally and, on NFRA’s recommendation, 1 April 2027 for most Indian companies.
+
+This Future CFO_DP Daily teaching case does not invent rupees for a listed ticker. It uses a labelled composite — Aarohan Industrials and CFO Meera Iyer — to force a real decision: wait for the MCA Gazette, run a shadow P&L, early-apply only if notified, or retire “core operating EBITDA” before it becomes a management-defined performance measure.
+
+IASB issued IFRS 18 on 9 April 2024, replacing IAS 1. Three categories (operating, investing, financing). Two required subtotals (operating profit; profit before financing and income tax). Public subtotals of income and expense become MPMs with a tax and NCI bridge.
+
+ICAI issued the Ind AS 118 exposure draft on 6 January 2025. NFRA’s 47th meeting (22 December 2025) recommended adoption from 1 April 2027, with calendar-year early application from 1 January 2027. MCA notification and the Schedule III rewrite remained pending on the date of this episode. KPMG India’s June 2026 Accounting and Auditing Update already treats the standard as a live board item.
+
+Website: https://viralgyandk-lang.github.io/future-cfo-2035/
+Subscribe for Future CFO_DP Daily.
+
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Preparing Business Students for the AI-Powered Economy
+
+#FutureCFODP #FinanceStudents #CaseStudy
+Tags:
+IFRS 18, Ind AS 118, operating profit presentation, management-defined performance measures, finance students, MBA students, accounting students, future CFO, Future CFO_DP, Dr Debasis Pahi, DrDPKlass, case study, business case, Indian listed company reporting, NFRA Ind AS 118, Schedule III rewrite
+Hashtags:
+#FutureCFODP #FinanceStudents #CaseStudy
+Thumbnail headline:
+OPERATING PROFIT MOVES
+Category: Education
+Pinned comment idea:
+Poll: If you are Meera Iyer, what do you take to the audit committee this week?
+A) Wait for the MCA Gazette, mapping file only
+B) Shadow IFRS 18 P&L for AC and banks
+C) Public early application if (and only if) notified
+D) Kill “core operating EBITDA” now
+End screen CTA:
+Subscribe · next episode tomorrow · comment A/B/C/D
+
+--- LINKEDIN ---
+Hook:
+Operating profit is about to stop meaning whatever last year’s investor deck said it meant.
+Body:
+On 9 April 2024 the IASB issued IFRS 18. It replaces IAS 1 from periods beginning 1 January 2027. India is on a parallel track: ICAI’s Ind AS 118 exposure draft (6 January 2025) and NFRA’s 22 December 2025 recommendation of a 1 April 2027 date for March-year-end companies.
+
+This is not a new measurement model. It is a new grouping discipline — operating / investing / financing — plus two mandatory subtotals, plus a note for every public income-and-expense subtotal that management still uses outside the statements.
+
+Today’s Future CFO_DP Daily case refuses to invent rupees for a live ticker. The composite CFO still has to choose: wait for the Gazette, dual-run a shadow P&L, early-apply only if notified, or retire the homemade EBITDA.
+
+AI can draft the mapping memo. The general ledger has to feed it. Human judgment decides which number you will defend when operating profit moves and cash does not.
+
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Hashtags:
+#FutureCFODP #IFRS18 #IndAS118 #FinanceStudents #CFO
+CTA:
+Which letter would you take to the board — A, B, C or D? Comment below.
+
+--- INSTAGRAM ---
+Caption:
+Same cash. Different operating profit.
+IFRS 18 (1 Jan 2027) and the proposed Ind AS 118 (NFRA: 1 Apr 2027) will restyle the P&L — not rewrite cash.
+Future CFO_DP Daily · 04 Sep 2026
+Comment A / B / C / D.
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Hashtags:
+#FutureCFODP #FinanceStudents #CaseStudy #IFRS18 #IndAS118 #MBAIndia #AccountingStudents #CFO
+Reel hook text:
+Your operating profit is about to change meaning.
+
+--- X / TWITTER ---
+Post (≤260 chars):
+IFRS 18 / Ind AS 118: operating profit becomes a defined subtotal, not a slide habit. Global date 1 Jan 2027; NFRA recommended 1 Apr 2027 for most Indian cos. Case out: Future CFO_DP Daily.
+Hashtags (2–3):
+#FutureCFODP #IFRS18 #FinanceStudents
