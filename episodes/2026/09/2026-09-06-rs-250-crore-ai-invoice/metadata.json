@@ -1,0 +1,19 @@
+{
+  "id": "future-cfo-dp-2026-09-06",
+  "title": "The Rs 250 Crore AI Invoice",
+  "subtitle": "When DPDP penalties, BRSR Core assurance and an AI pricing engine collide, the CFO discovers that privacy is a balance-sheet item — not a legal footnote",
+  "date": "2026-09-06",
+  "category": "AI Governance, Privacy & CFO Judgment",
+  "topics": ["DPDP Act 2023", "AI governance", "BRSR Core", "SEBI", "RBI climate finance", "CFO judgment", "data protection"],
+  "description": "HBS-style teaching case. A labelled composite marketplace, Meridian Bazaar, has deployed an AI engine that scrapes public social profiles to refine dynamic pricing. Counsel flags a possible DPDP exposure of up to Rs 250 crore. The board wants the model live before festive season. CFO Kavya Nair must choose among shutting the scraper, buying a privacy-preserving stack, or accepting residual risk with insurance and disclosure.",
+  "thumbnail": "AI SPEND. PRIVACY RISK.",
+  "presentation": "Future_CFO_DP_Daily_2026-09-06.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-06.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-06_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-06_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-06_Teaser_60s.mp4",
+  "duration": "4 minutes 8 seconds",
+  "featured": true,
+  "tags": ["DPDP Act", "AI governance", "BRSR Core", "finance students", "MBA students", "accounting students", "Future CFO_DP", "Dr Debasis Pahi", "business case study"],
+  "sources": ["Digital Personal Data Protection Act, 2023. Significant Data Fiduciary obligations; monetary penalty ceiling of Rs 250 crore for specified contraventions.", "BW CFO World, 5 September 2026. Why AI Adoption Without Governance Is A CFO's Nightmare and Indian CFOs Eye AI Governance, DPDP In 2026 Post-2025 Reset. January 2026 survey cited: 68 percent of Indian finance heads ranked DPDP compliance above GST changes.", "SEBI BRSR / BRSR Core glide path. Reasonable assurance: top 150 (FY23-24), top 250 (FY24-25), top 500 (FY25-26), top 1,000 (FY26-27). Value-chain disclosure deferred; voluntary from FY25-26, assessment/assurance from FY26-27 (SEBI circular 28 March 2025).", "Observer Research Foundation, January 2026. BRSR estimated about 40 percent aligned with IFRS S2; India has not adopted ISSB standards directly.", "RBI Climate Finance Directions, in force November 2025.", "Carbon Credit Trading Scheme (CCTS). First compliance year: about 490 obligated plants; expansion toward 740 once iron-and-steel and fertiliser targets are finalised.", "KPMG India, Accounting and Auditing Update, June 2026. IFRS 9 ESG-linked financial asset classification amendments effective 1 January 2026.", "ESGsource ISSB Adoption Tracker, 2 September 2026. 21-plus jurisdictions with mandatory ISSB covering about 60 percent of global GDP."]
+}
