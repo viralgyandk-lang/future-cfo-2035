@@ -1,0 +1,25 @@
+{
+  "id": "future-cfo-dp-2026-09-10",
+  "title": "Who Owns the AI Budget? The CFO's New Capital Mandate",
+  "subtitle": "On 9 September 2026, Deloitte and Salesforce published separate CFO surveys showing finance now owns AI capital allocation. A mid-cap industrial CFO must decide how much autonomy agents get before the board's Q2 review.",
+  "date": "2026-09-10",
+  "category": "AI Governance, Capital Allocation & CFO Judgment",
+  "topics": ["Deloitte Finance Trends 2027", "Salesforce CFO Priorities Report", "AI capital allocation", "agentic AI", "governance", "ROI"],
+  "description": "HBS-style teaching case dated 10 September 2026. Publicly reported facts from Deloitte Finance Trends 2027 (released 9 September 2026; 1,434 respondents): 54% of finance leaders lead cross-enterprise AI and technology capital allocation; 48% oversee AI trust and reliable outputs; 48% control AI and technology spending; 95% comfortable with agentic workflows in at least some finance activities, but only 14% support full autonomy for critical decisions; 55% require human oversight to deploy AI agents in finance; 43% prioritize AI and advanced technology through FY2027; 36% see primary AI return as productivity, 23% as revenue enablement. Salesforce CFO Priorities Report (9 September 2026; 865 finance leaders): nearly three-quarters say the role expanded this year, with managing AI the biggest reason; 65% manage multiple revenue models; 71% sell through more channels than a year ago; 90% of AI users report ROI; top blockers include security (46%) and governance/integration (42%). Composite firm: Deccan Industrial Systems Ltd. Composite decision-maker: CFO Arjun Menon.",
+  "thumbnail": "54% OF FINANCE LEADERS NOW ALLOCATE THE AI BUDGET. ONLY 14% WANT FULLY AUTONOMOUS AGENTS ON CRITICAL DECISIONS.",
+  "presentation": "Future_CFO_DP_Daily_2026-09-10.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-10.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-10_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-10_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-10_Teaser_60s.mp4",
+  "duration": "8 minutes",
+  "featured": true,
+  "tags": ["CFO", "AI governance", "capital allocation", "agentic AI", "Deloitte", "Salesforce", "finance students", "Future CFO_DP", "Dr Debasis Pahi"],
+  "sources": [
+    "Deloitte, Finance Trends 2027: Shaping the next era of stakeholder value. PR Newswire / Deloitte, 9 September 2026. Survey of 1,434 respondents.",
+    "Constellation Research summary of Deloitte Finance Trends 2027, 9 September 2026.",
+    "Salesforce, CFO Priorities Report, 9 September 2026. Double-blind survey of 865 finance leaders across three continents.",
+    "Forbes Finance Council, Maxim Olkhovskiy, 'AI Authority Is The New CFO's Control Problem,' 8 September 2026 (Santander-Mastercard March 2026 agent payment; Worldline-ING-Mastercard follow-on; Visa-OpenAI partnership).",
+    "COSO, Achieving Effective Internal Control Over Generative AI, February 2026."
+  ]
+}

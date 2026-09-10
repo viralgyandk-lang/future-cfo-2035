@@ -1,0 +1,46 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 10 September 2026
+Title: Who Owns the AI Budget? The CFO's New Capital Mandate
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+YOUTUBE
+Title: Who Owns the AI Budget? | Future CFO_DP Daily 10 Sep 2026
+Description:
+On 9 September 2026, Deloitte (Finance Trends 2027; 1,434 respondents) and Salesforce (CFO Priorities Report; 865 finance leaders) published separate surveys. Both say the same thing: finance now sits on AI capital allocation.
+
+Verified figures you will hear:
+- 54% of finance leaders lead cross-enterprise AI and technology capital allocation (Deloitte).
+- 48% oversee AI trust / reliable outputs; 48% control AI and technology spend (Deloitte).
+- 95% are comfortable with agentic workflows in at least some finance work; only 14% want full autonomy on critical decisions (Deloitte).
+- 55% require human oversight before deploying AI agents in finance (Deloitte).
+- 43% prioritize AI and advanced technology through FY2027 (Deloitte).
+- 36% see primary AI return as productivity; 23% as revenue enablement (Deloitte).
+- Nearly three-quarters of CFOs say the role expanded this year — managing AI is the biggest reason (Salesforce).
+- 65% manage multiple revenue models; 71% sell through more channels than a year ago (Salesforce).
+- 90% of finance leaders who use AI report ROI; security (46%) and governance/integration (42%) remain the top blockers (Salesforce).
+
+Teaching case company is composite: Deccan Industrial Systems Ltd. Decision-maker is composite: CFO Arjun Menon.
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Created and Copyright by Dr. Debasis Pahi (Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur).
+
+Tags: FutureCFO, CFO, AIGovernance, CapitalAllocation, AgenticAI, FinanceStudents, Deloitte, Salesforce, Accounting, FP&A
+
+LINKEDIN
+Hook: 54% of finance leaders now allocate the enterprise AI budget. Only 14% want fully autonomous agents on critical decisions.
+Body: Two surveys dropped on 9 September 2026 — Deloitte Finance Trends 2027 and Salesforce CFO Priorities. Read them together and the job description of the CFO has already changed. Capital allocation for AI is no longer an IT memo. It is a finance control problem.
+Hashtags: #FutureCFODP #CFO #AIinFinance #CapitalAllocation #Governance #FinanceStudents #DrDebasisPahi
+
+INSTAGRAM
+Hook: Your AI vendor wants autonomy. Your board wants a number. Only 14% of finance leaders will give agents a blank cheque on critical calls.
+Caption: Deloitte 1,434 leaders. Salesforce 865 leaders. Same week. Same message. Save this if you are sitting FP&A or intern season.
+Hashtags: #FutureCFO #CFOLife #FinanceTok #AIgovernance #MBAIndia
+
+X / TWITTER
+54% of finance leaders now own AI capex (Deloitte, 9 Sep 2026).
+Only 14% want fully autonomous agents on critical decisions.
+That gap is the job.
+#FutureCFODP #CFO
