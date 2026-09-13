@@ -1,0 +1,26 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 2026-09-13
+Title: When Finance Owns the Agent: Who Decides After Oversight Moves to the CFO
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+=== YOUTUBE ===
+Title (SEO):
+When Finance Owns the AI Agent | Deloitte 2027 + Salesforce CFO Report | Future CFO_DP 13 Sep 2026
+
+Description:
+In the first two weeks of September 2026, three public signals landed at once.
+Deloitte’s Finance Trends 2027 survey of 1,434 finance leaders found 54% already oversee cross-enterprise AI and technology capital allocation. Forty-eight percent own AI trust and reliable outputs. Forty-eight percent control AI spend. Seventy-seven percent say they are comfortable with agentic AI moving toward autonomous decisions — but only 14% want fully autonomous agents on critical calls. Fifty-five percent still require human oversight. Sixty percent expect AI costs and complexity to rise substantially through 2027.
+
+Salesforce’s CFO Priorities Report, based on 865 finance leaders, found nearly three-quarters say the role expanded this year, and half now sit as primary decision makers on company AI strategy. Ninety percent of those using AI report ROI. Complexity is the other half of the story: 65% manage multiple revenue models; 71% sell through more channels than a year ago.
+
+On 10 September 2026, Runway Financial rebranded as cfo.ai and launched Ari, an always-on agent that connects to NetSuite, QuickBooks, Stripe, Salesforce, Snowflake, Excel and Slack. The product thesis is simple: the founder no longer waits for a quarterly pack. The agent watches.
+
+This episode is a teaching case, not a product review. The question for students is not “can an agent forecast cash?” It is “when finance owns the agent, who still owns the decision?”
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Created and Copyright by Dr. Debasis Pahi
+Future CFO_DP
