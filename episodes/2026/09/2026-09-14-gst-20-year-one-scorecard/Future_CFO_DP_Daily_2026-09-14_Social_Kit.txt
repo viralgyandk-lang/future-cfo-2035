@@ -1,0 +1,66 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 2026-09-14
+Episode: The GST 2.0 Year-One Scorecard
+Slug: 2026-09-14-gst-20-year-one-scorecard
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+YOUTUBE
+Title: GST 2.0 Year One: Rate Cuts, Crude at $100, and a Council That Slipped to October | Future CFO_DP
+Description:
+One year after GST 2.0 took effect on 22 September 2025, the 57th GST Council meeting that was expected around 12 September 2026 has been rescheduled to 7 October 2026 in New Delhi. The two-rate structure (5% merit, 18% standard, 40% demerit) is no longer a launch story. It is a working-capital story.
+
+This briefing uses only public facts:
+• 56th GST Council (3–4 September 2025) approved GST 2.0.
+• CBIC notifications dated 17 September 2025; rates effective 22 September 2025.
+• RBI MPC 3–5 August 2026 held repo at 5.25% (neutral stance). FY27 CPI projection 5.0%.
+• SBI Research EcoWrap (reported 11 September 2026) flags a possible 25 bps hike in October and another in December if crude stays above $100/bbl.
+• Business Today (8 September 2026): Council likely to take stock of one-year rationalisation; broad-based cuts unlikely.
+
+Created and Copyright by Dr. Debasis Pahi (Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur).
+Brand: Future CFO_DP — Preparing Business Students for the AI-Powered Economy.
+
+Chapters:
+00:00 The postponed Council
+01:10 What GST 2.0 actually changed
+03:00 Working capital, ITC, and the inverted-duty unwind
+05:00 Repo hold versus oil risk
+07:00 What a future CFO should put on the October memo
+08:30 Close
+
+Tags: GST 2.0, GST Council, RBI repo rate, working capital, ITC, CFO India, Future CFO_DP, Debasis Pahi, indirect tax, WACC
+
+Hashtags: #FutureCFODP #GST20 #GSTCouncil #RBI #WorkingCapital #CFO #IndianEconomy #FinanceStudents
+
+LINKEDIN
+Hook: The GST Council did not meet last week. That is the point.
+Post:
+GST 2.0 is twelve months old this month.
+
+The 56th Council (3–4 September 2025) collapsed four main slabs into 5% and 18%, with a 40% demerit rate. Rates went live on 22 September 2025.
+
+The 57th meeting, earlier discussed for 12 September 2026, is now slated for 7 October 2026. Public reporting says the first job is a year-one stocktake — not another broad cut.
+
+Meanwhile the RBI held repo at 5.25% on 5 August 2026. SBI Research has since flagged oil above $100 as a reason the October MPC may not stay still.
+
+A future CFO does not argue with the headline rate. She maps:
+1) which SKUs moved 28→18 and 12→5
+2) where ITC timing still traps cash
+3) how a 25 bps repo move would reprice working-capital lines before the Council even sits
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFODP #GST20 #CFO
+
+INSTAGRAM
+Caption:
+GST 2.0 turns one.
+Council slipped to 7 Oct 2026.
+Repo still 5.25%. Crude is the wildcard.
+Save this if you are writing the October board note.
+#FutureCFODP #GST20 #FinanceStudent
+
+X / TWITTER
+GST 2.0 went live 22 Sep 2025.
+57th Council now 7 Oct 2026 — year-one review, not another slash.
+RBI repo 5.25% (Aug MPC). SBI Research: oil >$100 may force Oct/Dec hikes.
+Working capital is the exam. #FutureCFODP
