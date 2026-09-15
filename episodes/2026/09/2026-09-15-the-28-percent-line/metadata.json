@@ -1,0 +1,27 @@
+{
+  "id": "future-cfo-dp-2026-09-15",
+  "title": "The 28 Percent Line: Who May Decide a Routine Journal?",
+  "subtitle": "PEX finds only 28% of finance teams comfortable letting AI decide routine finance decisions. Deloitte says most CFOs expect AI cost and complexity to rise through 2027. Hub Group is restating three years after a $77 million error.",
+  "date": "2026-09-15",
+  "category": "AI Control, Internal Control & CFO Judgment",
+  "topics": ["PEX AI survey", "Deloitte AI cost outlook", "Hub Group restatement", "agentic finance", "internal control", "routine journals"],
+  "description": "HBS-style teaching case dated 15 September 2026. Public facts: PEX survey reported by CFO Dive (10 September 2026) — only 28% of finance teams comfortable having AI decide routine finance decisions. Deloitte survey via CFO.com — nearly two-thirds of CFOs expect AI-related costs and operational complexity to rise through 2027, yet many still prioritize the technology. Hub Group (14 September 2026, CFO Dive) named a CFO-elect and continues restating three years of financials after identifying a $77 million accounting error. Composite firm: Eastern Ports Logistics Ltd. Composite decision-maker: CFO Meera Rao.",
+  "thumbnail": "ONLY 28% OF FINANCE TEAMS WILL LET AI DECIDE A ROUTINE JOURNAL. THE OTHER 72% STILL WANT A HUMAN ON THE LINE.",
+  "presentation": "Future_CFO_DP_Daily_2026-09-15.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-15.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-15_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-15_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-15_Teaser_60s.mp4",
+  "duration": "8 minutes",
+  "featured": true,
+  "tags": ["CFO", "AI control", "PEX", "Deloitte", "Hub Group", "internal control", "restatement", "Future CFO_DP", "Dr Debasis Pahi"],
+  "sources": [
+    "CFO Dive, 'Finance teams still wary of giving AI control: PEX,' 10 September 2026.",
+    "CFO.com, 'CFOs expect AI costs to rise through 2027' (Deloitte survey), September 2026.",
+    "CFO Dive, 'Hub Group names new CFO: provides accounting error update,' 14 September 2026. $77 million error; three-year restatement.",
+    "CFO Dive Leadership, 14–15 September 2026.",
+    "U.S. Bank CFO Insights Report, Spring 2026 (survey 19 March–14 April 2026, 1,000 senior finance leaders).",
+    "Genpact, appointment of Sumita Pandit as CFO, 8–9 September 2026 (PR Newswire).",
+    "Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides."
+  ]
+}
