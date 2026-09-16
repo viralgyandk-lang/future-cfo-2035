@@ -1,0 +1,18 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 16 September 2026
+Episode: When the Governor Says AI Must Reach the Last Mile
+Slug: 2026-09-16-ai-last-mile-who-signs
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+HOOK
+The RBI Governor did not ask CFOs to buy more models.
+He asked whether AI will reach the last mile — and who will sign when it does.
+
+YOUTUBE
+Title: RBI at GFF 2026: AI for the Last Mile — Who Signs the Ledger? | Future CFO_DP
+Description: On 9–10 September 2026, RBI Governor Sanjay Malhotra and Deputy Governor Rohit Jain spoke at Global Fintech Fest 2026. Inclusion, trust, fraud, then global scale. Same week: Demat 2.0 and REC tokenised bond pilot. Composite case: Godavari Inclusive Finance Ltd.
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+Created and Copyright by Dr. Debasis Pahi
+
+LINKEDIN / INSTAGRAM / X
+See full kit in repo file. #FutureCFODP #RBI #GFF2026 #CFO
