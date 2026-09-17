@@ -1,0 +1,53 @@
+FUTURE CFO_DP | 2026-09-17
+Title: The Age of Exploration — Finance Speeds Tasks, Not Cash
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+YOUTUBE
+Title: The Age of Exploration: Why Finance AI Is Fast and Cash Is Still Slow | Future CFO_DP 17 Sep 2026
+Description:
+On 16 September 2026 Auditoria.AI released its seventh annual State of AI Automation in the Finance Office report, “The Age of Exploration.” Two-thirds of finance organisations say they are increasing AI spend. Only about one in five report meaningful, measurable results. Average teams now use AI across 2.43 functions — a 36% jump in a year — yet most remain in explore-or-pilot mode. Invoice digitisation and error detection are common. Cash-cycle transformation is not.
+
+Same week: OpenAI and PwC announced a collaboration to build finance agents around planning, close, procurement and treasury — with a live procurement agent inside OpenAI’s own finance organisation. Deloitte separately found 60% of finance leaders expect AI cost and complexity to rise substantially through 2027, and 54% say finance now leads enterprise AI capital allocation.
+
+This episode is a teaching case for BCom, MCom, MBA and CA students: speed is not the same as cash conversion. Agents can process invoices. They cannot, by themselves, rewrite supplier terms, collection discipline, or the human who still signs.
+
+Sources: Auditoria.AI / GlobeNewswire 16 Sep 2026; OpenAI–PwC announcement; CFO Dive / Deloitte AI-cost survey.
+
+Chapters:
+00:00 Hook — spend up, results thin
+01:10 The 16 September report
+03:00 Breadth without depth
+04:20 OpenAI + PwC agents
+05:40 Deloitte: who owns the AI bill
+07:00 Teaching case — cash cycle vs task cycle
+08:20 Student checklist
+Tags: Future CFO, AI in finance, Auditoria AI, cash conversion cycle, PwC OpenAI, FP&A, working capital, Dr Debasis Pahi, Future CFO_DP, agentic finance
+
+LINKEDIN
+Hook: 66.5% of finance teams are raising AI budgets. 21% can show meaningful results. That gap is the job description of the next CFO.
+Post:
+Auditoria.AI’s 16 September 2026 report calls this “The Age of Exploration.”
+Investment is decisive. Maturity is not. 58.4% of teams are still exploring or piloting. Only 12.8% have reached optimising or autonomous operations. Deployment breadth rose 36% in one year to 2.43 functions per team. Digitisation and anomaly detection lead. Cash-cycle outcomes lag.
+
+OpenAI and PwC are now building agents on live finance workflows — planning, reporting, procurement, payments, treasury, tax, close. Deloitte finds 60% of finance leaders expect AI cost and complexity to keep rising through 2027, and more than half already lead enterprise AI capital allocation.
+
+For students: do not confuse a faster invoice scan with a shorter cash conversion cycle. The first is a task. The second is a system — terms, collections, inventory, and a human who still decides.
+
+#FutureCFODP #AIinFinance #WorkingCapital #FPA #CFO #AccountingStudents
+
+INSTAGRAM
+Hook: AI made finance faster. Cash did not get the memo.
+Caption:
+New 16 Sep 2026 report: 66.5% raising AI spend. 21% seeing real results.
+Most teams still in pilot. Cash cycle is the missing chapter.
+Save this. Then ask your internship mentor: which KPI moved — processing time or days sales outstanding?
+#FutureCFODP #FinanceStudents #WorkingCapital #AIinFinance
+
+X / TWITTER
+66.5% of finance orgs raising AI spend.
+21% report meaningful results.
+58.4% still exploring or piloting.
+Cash cycle barely moved.
+That gap is the next CFO’s job. #FutureCFODP
