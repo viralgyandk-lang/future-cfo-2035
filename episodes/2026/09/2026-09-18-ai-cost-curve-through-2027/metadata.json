@@ -1,0 +1,26 @@
+{
+  "id": "future-cfo-dp-2026-09-18",
+  "title": "The AI Cost Curve Through 2027: Who Owns the Bill When Complexity Rises",
+  "subtitle": "Deloitte finds 60% of finance leaders expect AI costs and technical complexity to rise substantially through 2027. Oxford's Bob Eccles argues AI can also map sustainability into the financial statements. A mid-market CFO must decide whether to treat AI spend as a project, a product, or a utility.",
+  "date": "2026-09-18",
+  "category": "AI Cost Management, Capital Allocation & Sustainability Finance",
+  "topics": ["Deloitte AI costs 2027", "CFO Dive 15 September 2026", "AI cost management", "ISSB", "Bob Eccles", "sustainability mapping", "ERP integration"],
+  "description": "HBS-style teaching case dated 18 September 2026. Public facts: Deloitte survey reported by CFO Dive on 15 September 2026 \u2014 60% of finance leaders expect AI costs and technical complexity to rise substantially through 2027; 35% expect modest change and will keep current practices; 54% of finance leaders lead enterprise AI and technology capital-allocation decisions; 48% oversee AI and technology spending and cost controls. Challenges cited: regulatory uncertainty, complex cloud and vendor billing for AI compute, and difficulty integrating AI usage data with ERP and finance systems. Ed Hardy (Deloitte U.S. finance services leader): the CFO mandate is expanding from stewardship to shaping how the enterprise invests in, governs and creates value from AI. Reuters, 16 September 2026: Oxford visiting professor Robert Eccles and Columbia's Shivaram Rajgopal use AI to map sustainability risks to income, cash-flow and balance-sheet line items, cutting expert hours from about 100 to 30. ISSB: 46 countries have decided to adopt ISSB standards; IFRS Foundation Trustees announced a new ISSB seat in Geneva (August 2026); ISSB taxonomy comment deadline 28 September 2026. Composite firm: Godavari Components Ltd. Composite CFO: Meera Iyer.",
+  "thumbnail": "60% OF FINANCE LEADERS EXPECT AI COSTS TO SPIKE THROUGH 2027. 54% ALREADY ALLOCATE THE AI CAPITAL BUDGET.",
+  "presentation": "Future_CFO_DP_Daily_2026-09-18.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-18.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-18_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-18_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-18_Teaser_60s.mp4",
+  "duration": "8 minutes",
+  "featured": true,
+  "tags": ["CFO", "AI costs", "Deloitte", "ISSB", "Eccles", "sustainability", "capital allocation", "Future CFO_DP", "Dr Debasis Pahi"],
+  "sources": [
+    "CFO Dive, 'CFOs brace for higher AI costs through 2027,' 15 September 2026. Deloitte findings: 60% expect substantial rise in AI costs and technical complexity through 2027; 35% expect modest change; 54% lead AI/tech capital allocation; 48% oversee AI/tech spending.",
+    "Deloitte / Ed Hardy, U.S. finance services leader, quoted in CFO Dive, 15 September 2026.",
+    "Reuters, Ross Kerber, 'Oxford prof Eccles says AI can help end the ESG wars,' 16 September 2026. Eccles and Rajgopal; book Making Sustainability Financially Relevant: A Man/Machine Collaboration.",
+    "Geneva Solutions interview with ISSB Chair Emmanuel Faber, 16 September 2026. 46 countries decided to adopt ISSB standards; Geneva ISSB seat by mid-2027.",
+    "IFRS Foundation, ISSB taxonomy proposed update; comment deadline 28 September 2026. Trustees five-year plan including new ISSB seat in Geneva, 18 August 2026.",
+    "World Economic Forum, Chief Sustainability Officers Outlook 2026, 15 September 2026. 77% of CSOs cite energy intensity of AI infrastructure as the most significant negative sustainability impact of AI."
+  ]
+}

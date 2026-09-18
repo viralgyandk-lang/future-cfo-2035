@@ -1,0 +1,91 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 2026-09-18
+Title: The AI Cost Curve Through 2027: Who Owns the Bill When Complexity Rises
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+=== YOUTUBE ===
+Title (SEO):
+AI Costs Through 2027: Why 60% of CFOs Expect a Spike | Future CFO_DP Daily 18 Sep 2026
+
+Description:
+Deloitte finds 60% of finance leaders expect AI costs and technical complexity to rise substantially through 2027. Fifty-four percent already lead enterprise AI capital allocation. Oxford’s Bob Eccles shows how AI can map sustainability risks onto the financial statements.
+
+This Future CFO_DP Daily case asks one question a student can take into an interview: is AI spend a project, a product, or a utility — and who signs the bill when the vendor invoice does not match the ERP?
+
+Public sources: CFO Dive, 15 September 2026; Reuters (Eccles), 16 September 2026; ISSB / IFRS Foundation; WEF CSO Outlook 2026.
+
+Created and Copyright by Dr. Debasis Pahi
+Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Chapters:
+00:00 The 60 percent signal
+01:10 Who already owns the AI budget
+02:20 Why the invoice is hard to read
+04:00 Sustainability on the same ledger
+05:30 The Godavari decision
+07:00 What students should practise this week
+
+Tags:
+CFO, AI costs, Deloitte, ISSB, ESG, capital allocation, FP&A, ERP, finance students, Future CFO_DP, Dr Debasis Pahi, IIT Kharagpur
+
+=== LINKEDIN ===
+Hook:
+60% of finance leaders expect AI costs to spike through 2027.
+54% already allocate the AI capital budget.
+The invoice still does not sit cleanly in the ERP.
+
+Post:
+Deloitte’s latest finance survey, reported by CFO Dive on 15 September 2026, is not a technology story. It is a cost-accounting story.
+
+Sixty percent of finance leaders expect AI costs and technical complexity to rise substantially through 2027. Only 35 percent expect the rise to stay modest and plan to keep current practices. Fifty-four percent of finance leaders now lead enterprise AI and technology capital-allocation decisions. Forty-eight percent oversee the spending and the cost controls.
+
+Three frictions sit underneath those numbers:
+1. Regulatory and compliance uncertainty.
+2. Cloud and vendor billing for AI compute that does not look like a traditional software licence.
+3. AI usage data that does not join cleanly to ERP and finance systems.
+
+On 16 September, Reuters published Oxford visiting professor Robert Eccles on a related problem: mapping sustainability risks to specific line items in the income statement, cash-flow statement and balance sheet. With Columbia’s Shivaram Rajgopal, he used AI to cut an expert’s mapping work from about 100 hours to about 30. His organisational answer is blunt: the CSO should report to the CFO.
+
+Same week, ISSB Chair Emmanuel Faber noted 46 countries have decided to adopt ISSB standards, with a new ISSB seat planned in Geneva.
+
+The student takeaway is not “learn more prompts.” It is: design a cost object for AI, a control for agent spend, and a mapping from climate risk to cash.
+
+#FutureCFODP #CFO #AIcosts #Deloitte #ISSB #FinanceStudents #DrDebasisPahi
+
+=== INSTAGRAM ===
+Caption:
+60% of CFOs expect AI costs to spike through 2027.
+54% already own the AI capital budget.
+The invoice still will not sit in the ERP.
+
+This week’s Future CFO_DP Daily:
+Is AI spend a project, a product, or a utility?
+
+Save this if you are sitting FP&A, treasury or an interview case this semester.
+
+#FutureCFODP #CFO #AIinFinance #Deloitte #FinanceStudent #CAInter #MBA
+
+=== X ===
+60% of finance leaders expect AI costs + complexity to rise substantially through 2027 (Deloitte / CFO Dive, 15 Sep).
+
+54% already allocate the AI capital budget.
+48% own the spend controls.
+
+The hard part is not the model.
+It is joining the vendor invoice to the ERP.
+
+Future CFO_DP Daily — 18 Sep 2026
+#CFO #AI
+
+=== FACEBOOK ===
+Future CFO_DP Daily | 18 September 2026
+The AI Cost Curve Through 2027.
+
+Deloitte: 60% of finance leaders expect AI costs and technical complexity to rise substantially through 2027. 54% lead AI capital allocation. 48% control the spend.
+
+Oxford’s Bob Eccles: AI can map sustainability onto the financial statements — if the CSO reports to the CFO.
+
+Full case, slides, and audio: https://viralgyandk-lang.github.io/future-cfo-2035/
