@@ -1,0 +1,24 @@
+{
+  "id": "future-cfo-dp-2026-09-20",
+  "title": "The 17-Cent Credit Check: Who Signs the AI Number?",
+  "subtitle": "In mid-September 2026 OpenAI CFO Sarah Friar told CNBC that agentic credit checks cut unit cost from about $200 to 17 cents. Deloitte found 60% of finance leaders expect AI costs and complexity to rise through 2027. Workiva's Amplify conference heard that 84% of respondents were at least somewhat confident putting unchecked AI numbers into an annual report. A composite Indian mid-cap CFO must decide what the board will sign.",
+  "date": "2026-09-20",
+  "category": "AI Cost, Internal Control & CFO Judgment",
+  "topics": ["OpenAI Sarah Friar", "credit-check ROI", "Deloitte AI cost", "Workiva Amplify", "AI in annual reports", "internal control", "agentic finance"],
+  "description": "HBS-style teaching case dated 20 September 2026. Public facts: Sarah Friar on CNBC Mad Money (reported 16 September 2026) said OpenAI finance used its own products to cut credit-check cost from about $200 to 17 cents on a run-rate of 2,800 checks the prior year, calling many displaced tasks mundane. Deloitte (CFO Dive, 15 September 2026; 1,434 finance leaders at firms with at least $1 billion revenue, 26 countries) reported 60% expect AI costs and technical complexity to rise substantially through 2027; 54% lead enterprise AI and technology capital allocation; 48% oversee AI and technology spending. Workiva Amplify, Las Vegas, 14 September 2026: CFO Barbara Larson said finance is pulled into strategy and tech decisions before they are made; survey cited by Penny Ashley-Lawrence: 84% at least somewhat confident AI-generated numbers could land in annual reports without a human check. Composite firm: Kalinga Precision Components Ltd. Composite CFO: Nandini Rao.",
+  "thumbnail": "CREDIT CHECKS FELL FROM $200 TO 17 CENTS. 84% WOULD PUT AN UNCHECKED AI NUMBER IN THE ANNUAL REPORT. WHO SIGNS?",
+  "presentation": "Future_CFO_DP_Daily_2026-09-20.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-20.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-20_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-20_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-20_Teaser_60s.mp4",
+  "duration": "8 minutes",
+  "featured": true,
+  "tags": ["CFO", "AI cost", "internal control", "OpenAI", "Deloitte", "Workiva", "finance students", "Future CFO_DP", "Dr Debasis Pahi"],
+  "sources": [
+    "Katherine Li, Business Insider, 16 September 2026, reporting Sarah Friar on CNBC Mad Money: credit checks 2,800/year prior year; cost from $200 to about 17 cents.",
+    "CFO Dive, 15 September 2026, Deloitte survey of 1,434 finance leaders: 60% expect AI costs and complexity to rise through 2027; 54% lead AI capital allocation; 48% oversee AI spend. Quote from Ed Hardy, Deloitte.",
+    "Denise Lugo, Thomson Reuters Checkpoint News, 18 September 2026: Workiva Amplify 14 September 2026; Barbara Larson; 84% confidence statistic cited by Penny Ashley-Lawrence.",
+    "Constellation Research, 9 September 2026 summary of Deloitte Finance Trends 2027 (agentic autonomy 14% fully autonomous on critical decisions; 55% require human oversight)."
+  ]
+}

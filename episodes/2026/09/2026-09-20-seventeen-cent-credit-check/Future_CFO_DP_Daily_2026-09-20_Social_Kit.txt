@@ -1,0 +1,69 @@
+--- YOUTUBE PACK ---
+Title:
+The 17-Cent Credit Check: Who Signs the AI Number? | Future CFO_DP
+Description:
+On 16 September 2026 Business Insider reported OpenAI CFO Sarah Friar telling CNBC's Jim Cramer that finance used the firm's own products to cut vendor credit checks from about $200 each to 17 cents, on a prior-year run-rate of 2,800 checks. She called many of the displaced tasks mundane. That is a real unit-cost story. It is not a control story.
+
+Two other public facts land in the same week. Deloitte's survey of 1,434 finance leaders at companies with at least $1 billion revenue across 26 countries (CFO Dive, 15 September 2026) found 60% expect AI costs and technical complexity to rise substantially through 2027. Fifty-four percent said finance leads enterprise AI and technology capital allocation; 48% oversee AI and technology spend. Ed Hardy of Deloitte put it plainly: the CFO mandate is expanding from stewardship to how the firm invests in, governs and creates value from AI.
+
+At Workiva Amplify in Las Vegas on 14 September 2026, Workiva CFO Barbara Larson said finance is finally in the room before the decision is made — and is being asked to lead strategy and tech strategy. Chief Customer Officer Penny Ashley-Lawrence cited survey data that 84% of respondents felt at least somewhat confident that AI-generated numbers could land in an annual report without a human ever checking them.
+
+This Future CFO_DP Daily case does not invent OpenAI's books. It uses a labelled composite — Kalinga Precision Components Ltd and CFO Nandini Rao — to force a board choice: scale agentic credit and invoice work for unit-cost wins; freeze agents on any number that can reach statutory filings; dual-run human review until COSO-style evidence exists; or cap AI opex until FY2027 cost curves are visible.
+
+Website: https://viralgyandk-lang.github.io/future-cfo-2035/
+Subscribe for Future CFO_DP Daily.
+
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Preparing Business Students for the AI-Powered Economy
+
+#FutureCFODP #FinanceStudents #CaseStudy
+Tags:
+Sarah Friar, OpenAI CFO, credit check ROI, Deloitte AI cost 2027, Workiva Amplify, AI annual report, internal control, finance students, MBA students, Future CFO_DP, Dr Debasis Pahi, agentic finance, COSO generative AI
+Hashtags:
+#FutureCFODP #FinanceStudents #CaseStudy
+Thumbnail headline:
+$200 TO 17 CENTS. WHO SIGNS?
+Category: Education
+Pinned comment idea:
+Poll: If you are Nandini Rao, what do you take to the audit committee this week?
+A) Scale agents on mundane vendor work; keep humans on statutory numbers
+B) Freeze any AI number that can reach the annual report
+C) Dual-run every material AI output until evidence files exist
+D) Cap AI opex until the 2027 cost curve is visible
+End screen CTA:
+Subscribe · next episode tomorrow · comment A/B/C/D
+
+--- LINKEDIN ---
+Hook:
+A credit check that cost two hundred dollars now costs seventeen cents. Eighty-four percent of surveyed respondents would still put an unchecked AI number in an annual report.
+Body:
+Sarah Friar, OpenAI's CFO, told CNBC's Jim Cramer (reported 16 September 2026) that her own finance team used the company's products on vendor credit checks. Prior-year volume: about 2,800 checks. Unit cost: from roughly $200 to 17 cents. She described the displaced work as mundane. That sentence will be quoted in every student deck this month. Quote the next sentence too: unit cost is not internal control.
+
+Deloitte's 1,434-leader survey (CFO Dive, 15 September 2026) said 60% of finance chiefs expect AI costs and technical complexity to rise substantially through 2027. Fifty-four percent already lead AI capital allocation. Forty-eight percent own the spend. At Workiva Amplify on 14 September, Barbara Larson said finance is in the room before the decision. A cited survey: 84% at least somewhat confident that AI numbers could reach an annual report with no human check.
+
+Today's Future CFO_DP case uses a labelled composite CFO. The decision is not "should we use AI." It is which number a human will still sign.
+
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Hashtags:
+#FutureCFODP #CFO #AIGovernance #FinanceStudents #InternalControl
+CTA:
+Which letter would you take to the audit committee — A, B, C or D? Comment below.
+
+--- INSTAGRAM ---
+Caption:
+$200 → 17 cents on a credit check.
+84% would file an unchecked AI number.
+Cost is not control.
+Future CFO_DP Daily · 20 Sep 2026
+Comment A / B / C / D.
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Hashtags:
+#FutureCFODP #FinanceStudents #CaseStudy #CFO #AIFinance #MBAIndia #AccountingStudents
+Reel hook text:
+Seventeen cents. Who signs?
+
+--- X / TWITTER ---
+Post (≤260 chars):
+OpenAI CFO: credit checks $200 → 17¢ (2,800/yr). Deloitte: 60% see AI costs rising through 2027. Workiva week: 84% OK with unchecked AI numbers in an annual report. Case: who signs? Future CFO_DP Daily.
+Hashtags (2–3):
+#FutureCFODP #CFO #FinanceStudents
