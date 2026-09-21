@@ -6,12 +6,55 @@ Tagline: Preparing Business Students for the AI-Powered Economy
 Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
 Site: https://viralgyandk-lang.github.io/future-cfo-2035/
 
+============================================================
 YOUTUBE
-Title: When the AI CFO Arrives: Who Signs the Numbers? | Future CFO_DP
-See local Social_Kit.txt for full YouTube description, chapters and tags.
+============================================================
+Title (SEO, ≤70 chars):
+When the AI CFO Arrives: Who Signs the Numbers? | Future CFO_DP
 
-LINKEDIN HOOK
+Description:
+In the second half of September 2026, three stories landed on the same desk.
+
+Deloitte told 1,434 finance leaders across 26 countries that 60 percent expect AI costs and technical complexity to rise substantially through 2027 — and 54 percent of those leaders already lead enterprise AI and technology capital allocation.
+
+Runway Financial rebranded as cfo.ai and launched Ari, an always-on agent that connects to NetSuite, QuickBooks, Stripe, Salesforce and Excel, then forecasts cash, tests hiring plans and pokes founders in Slack.
+
+FICCI CFO Summit in Hyderabad asked Indian finance leaders to reimagine the finance role in the age of AI. Microsoft India CFO Aruna Singh and Google India Head of Finance Vivek Chhabra both put data foundations ahead of dashboards.
+
+This episode of Future CFO_DP is a teaching case, not a product review. The question is not whether an agent can draft a forecast. The question is who signs it.
+
+RBI context (62nd MPC, 3–5 August 2026): repo held at 5.25 percent; SDF 5.00; MSF and Bank Rate 5.50; stance neutral; CPI for 2026-27 projected at 5.0 percent.
+
+ISSB is preparing nature-related disclosure guidance as an IFRS Practice Statement to sit on top of IFRS S1 and S2.
+
+Created and Copyright by Dr. Debasis Pahi
+Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur
+
+Tags: Future CFO_DP, Dr Debasis Pahi, AI CFO, FP&A, Deloitte, cfo.ai Ari, FICCI, IFRS, ISSB, RBI
+
+============================================================
+LINKEDIN
+============================================================
+Hook:
 An agent can draft your cash forecast at 2 a.m.
 It cannot sign the board pack at 9 a.m.
 
-See full kit file in the episode folder after media publish.
+Body:
+Three public facts from September 2026.
+
+1. Deloitte surveyed 1,434 finance leaders at firms with revenue of at least $1 billion, across 26 countries. Sixty percent expect AI costs and technical complexity to rise substantially through 2027. Fifty-four percent already lead enterprise AI and technology capital-allocation decisions. Forty-eight percent oversee AI and technology spending. (CFO Dive, 15 September 2026.)
+
+2. Runway Financial rebranded as cfo.ai and launched Ari. Siqi Chen said LLMs still struggle with forecasting. (SiliconANGLE / PR Newswire, 10 September 2026.)
+
+3. FICCI CFO Summit 2026, Hyderabad, theme Reimagining the Finance Role in the Age of AI. Microsoft India CFO Aruna Singh and Google India Head of Finance Vivek Chhabra: data foundations first.
+
+RBI 62nd MPC (3–5 August 2026): repo 5.25 percent, neutral stance, CPI 2026-27 projected 5.0 percent.
+
+Rule: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFODP #AIinFinance #FPA #IFRS #RBI
+
+============================================================
+INSTAGRAM / X / FACEBOOK
+============================================================
+Full platform copy is in the emailed Social_Kit.txt attachment.
