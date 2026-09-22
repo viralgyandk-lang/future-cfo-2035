@@ -1,0 +1,47 @@
+FUTURE CFO_DP | 22 September 2026
+Title: The AI Invoice That Does Not Peak
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+YOUTUBE
+Title (SEO): CFOs Expect AI Costs to Rise Through 2027 | Deloitte Survey + Agentic CFO Case | Future CFO_DP
+Description:
+On 21 September 2026, CFO.com reported Deloitte’s Finance Trends 2027 finding: 60% of 1,434 finance leaders expect AI costs and complexity to rise substantially through 2027. Only 35% think the bill stays modest. 54% of finance leaders now lead AI capital allocation.
+
+This episode is an HBS-style case for business students: how a mid-market CFO designs AI cost management before budget lock — without confusing a chatbot invoice with a capital programme.
+
+Sources: Deloitte Finance Trends 2027; CFO.com 21 Sep 2026; CFO Dive 15 Sep and 1 Sep 2026 (BeSmartee); cfo.ai / Ari launch 10 Sep 2026.
+
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Chapters:
+00:00 The 60 percent number
+01:10 What Deloitte actually asked
+02:20 Budget season started in May
+03:40 Stage-gate versus open tap
+05:00 The agentic CFO product
+06:20 Student decision
+07:30 Close
+
+Tags: CFO, AI costs, Deloitte, Finance Trends 2027, budget, agentic AI, FP&A, India finance students, Future CFO_DP, Dr Debasis Pahi
+
+LINKEDIN
+Hook: 60% of CFOs say the AI bill keeps rising through 2027. 35% say it stays modest. Both groups sit in the same survey. Which camp is your finance team in — and can you prove it with a cost ledger, not a slide?
+Post: Deloitte asked 1,434 finance leaders across 26 countries. Sixty percent expect AI costs and complexity to rise substantially through 2027 and say they will need more sophisticated cost-management practices. Thirty-five percent plan to keep current practices because they think the spend stays modest.
+Meanwhile 43% still list embed AI to automate operations among their top three priorities. That is not a contradiction. It is a control problem.
+BeSmartee’s CFO started budget season in May, not September, just to size tool cost. He put a $500 alert on Claude in Excel.
+The student job is not to cheer or panic. It is to design a stage-gate, a usage ledger, and a human sign-off before the 2027 budget locks.
+#FutureCFODP #CFO #AIcosts #FP&A #Deloitte
+
+INSTAGRAM
+Hook: The AI invoice does not peak in 2026.
+Caption: 60% of finance leaders expect AI cost and complexity to rise through 2027 (Deloitte, 1,434 respondents). 35% disagree. Your internship test: can you separate seat licences, token spend, integration, and model-risk cost on one page?
+#FutureCFODP #CFOLife #FinanceStudents #AIBudget
+
+X / TWITTER
+60% of finance leaders expect AI costs to rise substantially through 2027 (Deloitte, n=1,434). 35% think the bill stays modest. The CFO job is not to pick a camp. It is to build a ledger that can prove which camp is right. #FutureCFODP
+
+HASHTAGS
+#FutureCFODP #DrDebasisPahi #CFO #AIinFinance #FP&A #Budget2027 #AgenticAI #FinanceStudents #IITKharagpur #Accounting
