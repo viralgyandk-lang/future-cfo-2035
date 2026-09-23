@@ -1,0 +1,24 @@
+{
+  "id": "future-cfo-dp-2026-09-23",
+  "title": "Speed, Concentration, Opacity: RBI's Three AI Risks for CFOs",
+  "subtitle": "At GFF 2026, RBI Deputy Governor Rohit Jain warned that AI in finance amplifies three old risks. A composite mid-market CFO must decide which automated credit and collections actions stay human-gated before the October board.",
+  "date": "2026-09-23",
+  "category": "AI Governance, Risk & CFO Judgment",
+  "topics": ["RBI GFF 2026", "Rohit Jain", "AI risk", "speed", "concentration", "opacity", "credit models", "CFO"],
+  "description": "HBS-style teaching case dated 23 September 2026. Publicly reported facts: RBI Deputy Governor Rohit Jain, speaking at GFF 2026 in Mumbai (reported 9 September 2026), identified speed, concentration and opacity as the three concerns that emerging technologies amplify in finance. Automated systems can act faster than humans can respond; dependence on a few technology providers creates concentration; advanced models remain hard to explain. Institutions must detect, contain and intervene before a small error becomes a system event. Composite firm: Godavari Digital Credit Ltd. Composite decision-maker: CFO Ananya Sen.",
+  "thumbnail": "RBI NAMED THREE AI RISKS. WHICH ONE SITS ON YOUR P&L FIRST?",
+  "presentation": "Future_CFO_DP_Daily_2026-09-23.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-23.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-23_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-23_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-23_Teaser_60s.mp4",
+  "duration": "8 minutes",
+  "featured": true,
+  "tags": ["RBI", "AI governance", "CFO", "credit risk", "Future CFO_DP", "Dr Debasis Pahi", "GFF 2026"],
+  "sources": [
+    "The Economic Times / ANI, 9 September 2026: GFF 2026 — RBI flags speed, concentration, opacity as key risks as AI use grows in finance. Deputy Governor Rohit Jain.",
+    "RBI public remarks at Global Fintech Fest 2026 as reported by national business media.",
+    "Digital Personal Data Protection Act, 2023: statutory penalty ceiling of Rs 250 crore for specified contraventions (public statute).",
+    "BW CFO World coverage through September 2026 on Indian CFO AI-governance and DPDP priorities."
+  ]
+}
