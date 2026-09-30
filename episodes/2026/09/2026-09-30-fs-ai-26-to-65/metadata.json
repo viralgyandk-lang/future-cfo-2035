@@ -1,0 +1,25 @@
+{
+  "id": "future-cfo-dp-2026-09-30",
+  "title": "When 26% Becomes 65%: Scaling AI Across Indian Financial Services",
+  "subtitle": "KPMG India and Mastercard, presenting at Global Fintech Fest 2026, report AI adoption in Indian financial services is expected to rise from 26% to 65% within twelve months. Account Aggregator rails now cover about 2.9 billion enabled accounts and more than 538 million fulfilled consents as of July 2026. A mid-size NBFC CFO must decide what to scale — and what still needs a human signature.",
+  "date": "2026-09-30",
+  "category": "AI Scale-up, Financial Services & CFO Judgment",
+  "topics": ["KPMG Mastercard GFF 2026", "AI adoption financial services India", "Account Aggregator", "CFA Institute Graduate Outlook 2026", "NBFC credit decisioning", "CFO governance"],
+  "description": "HBS-style teaching case dated 30 September 2026. Public facts: KPMG in India and Mastercard report at Global Fintech Fest 2026 that AI adoption across Indian financial services is expected to rise from 26% to 65% within 12 months; India has more than 17,700 fintech companies; about 2.9 billion financial accounts are enabled to share data through the Account Aggregator framework, with more than 538 million fulfilled consents as of July 2026. CFA Institute 2026 Graduate Outlook Survey: 74% of Indian graduates believe AI and automation could make it harder to secure jobs; 81% feel confident using AI tools; 98% view professional upskilling as essential; nearly 70% believe professional certifications offer greater career value than postgraduate degrees. Randstad Digital: more than 30% of organisations in India plan to reduce graduate hiring as AI adoption accelerates. Composite firm: Godavari Finance Ltd (NBFC). Composite CFO: Meera Iyer.",
+  "thumbnail": "INDIAN FS AI ADOPTION: 26% TODAY. 65% IN TWELVE MONTHS. THE RAILS EXIST. THE SIGNATURE STILL DOES NOT.",
+  "presentation": "Future_CFO_DP_Daily_2026-09-30.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-09-30.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-09-30_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-09-30_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-09-30_Teaser_60s.mp4",
+  "duration": "8 minutes",
+  "featured": true,
+  "tags": ["CFO", "AI adoption", "financial services", "Account Aggregator", "KPMG", "Mastercard", "CFA Institute", "NBFC", "Future CFO_DP", "Dr Debasis Pahi"],
+  "sources": [
+    "KPMG in India and Mastercard, Intelligent, sovereign and scalable: Architecting the future-ready financial operating system. Presented at Global Fintech Fest 2026. Summarised by Consultancy.in, 21 September 2026.",
+    "CFA Institute, 2026 Graduate Outlook Survey, reported in BW Education, 30 September 2026 display / May 2026 survey cycle.",
+    "Randstad Digital, reported in BW Education on graduate hiring reductions in India.",
+    "Nasscom commentary on AI-native versus AI-proficient early talent, 2026 placement season.",
+    "Account Aggregator framework public statistics as cited in the KPMG-Mastercard GFF 2026 materials (2.9 billion enabled accounts; 538 million+ fulfilled consents as of July 2026)."
+  ]
+}
