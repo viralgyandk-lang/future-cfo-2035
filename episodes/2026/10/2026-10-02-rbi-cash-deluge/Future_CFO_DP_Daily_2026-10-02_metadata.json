@@ -1,0 +1,28 @@
+{
+  "brand": "Future CFO_DP",
+  "copyright": "Created and Copyright by Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "date": "2026-10-02",
+  "title": "The Cash Deluge: A CFO Briefing on the RBI Liquidity Trilemma",
+  "slug": "2026-10-02-rbi-cash-deluge",
+  "episode_folder": "episodes/2026/10/2026-10-02-rbi-cash-deluge",
+  "presentation": "Future_CFO_DP_Daily_2026-10-02.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-10-02.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-10-02_Indian_English.mp3",
+  "script": "Future_CFO_DP_Daily_2026-10-02_Script.docx",
+  "video": "Future_CFO_DP_Daily_2026-10-02_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-10-02_Teaser_60s.mp4",
+  "duration_seconds": {
+    "audio": 536.2,
+    "video": 536.2,
+    "teaser": 60.0
+  },
+  "case_pages": 14,
+  "voice": "Indian English male (en-IN-PrabhatNeural)",
+  "site": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "sources": [
+    "https://www.business-standard.com/economy/news/india-s-133-billion-cash-deluge-puts-rbi-on-a-more-hawkish-policy-path-126100100342_1.html",
+    "https://www.business-standard.com/topic/rbi"
+  ]
+}
