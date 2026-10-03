@@ -1,0 +1,27 @@
+{
+  "id": "future-cfo-dp-2026-10-03",
+  "title": "Who Holds the Kill Switch?",
+  "subtitle": "RBI’s 24 June 2026 draft Guidance on Regulatory Principles for Model Risk Management is still a draft on 3 October. A CFO must inventory, validate, and be able to stop every model — including the vendor’s.",
+  "date": "2026-10-03",
+  "category": "Model Risk, AI Governance and CFO Controls",
+  "topics": ["RBI", "model risk", "kill switch", "MRMF", "FREE-AI", "NBFC", "third-party models"],
+  "description": "HBS-style teaching case dated 3 October 2026. Primary source: RBI press release 2026-2027/528, 24 June 2026, draft Guidance on Regulatory Principles for Model Risk Management, Brij Raj, CGM. Comments by 24 July 2026. Builds on 5 August 2024 credit-model draft and FREE-AI report of 13 August 2025. Applies to banks, NBFCs, co-operative banks, ARCs, CICs; includes third-party and AI/ML models. Composite firm: Mahanadi Finance Ltd. Composite CFO: Leela Patnaik.",
+  "thumbnail": "WHO HOLDS THE KILL SWITCH? IF YOU CANNOT DETECT, CONTAIN AND EXPLAIN THE MODEL, DO NOT SIGN.",
+  "presentation": "Future_CFO_DP_Daily_2026-10-03.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-10-03.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-10-03_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-10-03_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-10-03_Teaser_60s.mp4",
+  "duration": "7 minutes 6 seconds",
+  "featured": true,
+  "tags": ["CFO", "RBI", "model risk", "kill switch", "AI governance", "Future CFO_DP", "Dr Debasis Pahi"],
+  "sources": [
+    "RBI press release 2026-2027/528, 24 June 2026: draft Guidance on Regulatory Principles for Model Risk Management. Brij Raj, CGM. Comments by 24 July 2026.",
+    "RBI draft Regulatory Principles for Management of Model Risks in Credit, 5 August 2024.",
+    "RBI FREE-AI committee report, 13 August 2025.",
+    "Mint, Anshika Kayastha, 26 June 2026: structural controls and kill switch for AI/ML models.",
+    "The Print, Vrinda Tulsian, 26 June 2026: a human firmly in the loop.",
+    "nasscom public-policy analysis of the draft, September 2026.",
+    "BW Legal World, 3 October 2026: draft still described as awaiting finalisation."
+  ]
+}
