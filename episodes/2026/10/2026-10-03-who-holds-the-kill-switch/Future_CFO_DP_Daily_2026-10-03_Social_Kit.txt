@@ -1,0 +1,55 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 3 October 2026
+Title: Who Holds the Kill Switch?
+Episode folder: episodes/2026/10/2026-10-03-who-holds-the-kill-switch/
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+Created and Copyright by Dr. Debasis Pahi
+
+=== YOUTUBE ===
+Title: Who Holds the Kill Switch? RBI’s Draft Model Risk Rules and the CFO | Future CFO_DP
+Description:
+On 24 June 2026 the Reserve Bank of India released draft Guidance on Regulatory Principles for Model Risk Management (Press Release 2026-2027/528). Comments closed on 24 July. On 3 October 2026 the paper is still a draft — and that is why a CFO should read it now.
+
+This episode covers:
+- What RBI counts as a model (including third-party and AI/ML models)
+- Board-approved Model Risk Management Framework, inventory, validation
+- Kill switch: override, suspend, deactivate
+- Customer disclosure and a path to a human
+- A composite NBFC case: Mahanadi Finance Limited (invented firm, real rule)
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Sources: RBI PR 2026-2027/528 (24 June 2026); RBI credit-model draft (5 Aug 2024); FREE-AI report (13 Aug 2025); Mint, 26 June 2026; The Print, 26 June 2026; nasscom analysis; BW Legal World, 3 October 2026.
+
+Created and Copyright by Dr. Debasis Pahi, Assistant Professor, Model Degree College Malkangiri, Ph.D., IIT Kharagpur.
+Website: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+Tags: Future CFO, RBI, model risk, AI governance, kill switch, NBFC, CFO, Ind AS, finance students, Dr Debasis Pahi
+
+=== LINKEDIN ===
+Hook: The comment window closed in July. The circular is not final. The control gap is already on your book.
+
+On 24 June 2026 RBI published draft Guidance on Regulatory Principles for Model Risk Management (PR 2026-2027/528). It covers banks, NBFCs, co-operative banks, ARCs and credit information companies. It covers third-party models and AI/ML. It asks for a board-approved framework, an inventory, independent validation, and a way to override, suspend or deactivate a model — including a kill switch.
+
+BW Legal World, this morning, still treats the paper as a draft. Do not wait for the final text to ask four questions: Is it on the inventory? Who validated it? Who can switch it off at 9 pm? Does the customer know a machine is in the conversation?
+
+Full case and deck: Future CFO_DP, 3 October 2026.
+https://viralgyandk-lang.github.io/future-cfo-2035/
+
+#FutureCFO #CFO #RBI #ModelRisk #AIgovernance #NBFC #FinanceLeadership #DrDebasisPahi
+
+=== INSTAGRAM ===
+Caption: Who holds the kill switch?
+
+RBI’s 24 June 2026 draft on model risk is still a draft on 3 October. It already tells a CFO what “good” will look like: inventory, independent validation, a human who can stop the model, and a customer who knows they are talking to a machine.
+
+You can rent the engine. You cannot rent the signature.
+
+Save this for Monday’s board pack.
+Future CFO_DP · Dr. Debasis Pahi
+
+#FutureCFO #CFO #RBI #AIinFinance #ModelRisk #FinanceStudents #KillSwitch #NBFC
+
+=== X ===
+RBI draft (24 Jun 2026, PR 2026-27/528) still not final on 3 Oct. CFO test: inventory, independent validation, a kill switch a human can throw at 9 pm, customer told a machine is in the chat. You may rent the model. You do not rent the signature. Future CFO_DP
+https://viralgyandk-lang.github.io/future-cfo-2035/
