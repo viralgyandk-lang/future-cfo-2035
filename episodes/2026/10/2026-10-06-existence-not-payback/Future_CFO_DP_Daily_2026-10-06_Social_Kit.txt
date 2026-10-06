@@ -1,0 +1,55 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 6 October 2026
+Title: Existence, Not Payback
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+Episode folder: episodes/2026/10/2026-10-06-existence-not-payback/
+
+YOUTUBE
+Title: Existence, Not Payback | Why Indian CFOs Retired the 90-Day AI Test | Future CFO_DP 6 Oct 2026
+Description:
+On 6 October 2026 the trade press still carries a June argument Indian CFOs have already had in public. Girish Goenka, CFO of Piramal Realty, told a BW Businessworld–Salesforce roundtable that the old question — how much does it return, and in how many days — has changed. It is not a matter of return. It is a matter of existence. Reported by Savi Khanna, BW CFO World, 17 June 2026.
+
+This episode is a teaching case. Eastern Ghats Auto Components and CFO Leela Narayan are composite. Every quotation is from the public record.
+
+Verified lines you will hear:
+- Goenka, Piramal Realty: existence, not a days-of-payback number (17 June 2026).
+- Sajal Gupta, Keystone Realtors: longer horizon; process AI can show results faster than pricing work.
+- Ashish Jain, Lumina Datamatics: standard ROI applied too early disturbs innovation.
+- Pankaj M. Latoria, Ravago India: labour arbitrage fails; test efficiency, growth, and strategy.
+- Rishabh Bothra, Vedanta–Sterlite Copper: value is behavioural; working capital belongs in the test.
+- Aneesh Kongot, Happilo: an agent reads order emails into SAP (1 June 2026, SAP Concur roundtable).
+- Rahul Bothra, Swiggy: engineering releases roughly 70% higher than a year ago; finance analyst layer compressed.
+- Nagesh Bailur, Randstad India: payroll formats for about 75,000 workers across about 2,000 clients; two weeks of work now two days. Human voice still closes.
+- Praveer Surana, Atyati: hallucination risk on tax; regulation-specific work still has a way to go.
+- Radhakrishna Sunku, EY GDS (90,000+ people, 9 countries): thousands of travel invoices matched to airline data and GST credits, into SAP.
+- Hemlata Chaudhary, JSW Steel Coated Products: Excel judging a 2026 tool; downtime not yet priced.
+- Mankiran Chowhan, Salesforce India: if AI cannot show ROI, you are still playing hobby.
+- Rajesh Raghunath Prabhu, DBS Bank India, 24 June 2026: accountability ultimately rests with people.
+- BW CFO World headline, 30 September 2026, carrying ACCA: 52% of financial services professionals fear AI’s impact on jobs.
+- Jitin Diwan, IndiaMART, 31 December 2025: DPDP consent and 2026 penalty-testing sit on the CFO desk.
+
+Recommendation in the case: do not sign a 90-day payback on the whole programme. Split it. Name the human who releases a ledger post.
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Created and Copyright by Dr. Debasis Pahi (Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur).
+
+Tags: FutureCFO, CFO, AIROI, IndianCFO, FinanceStudents, GST, Accounting, FP&A, DrDebasisPahi, ExistenceNotPayback
+
+LINKEDIN
+Hook: Girish Goenka, CFO of Piramal Realty, said the quiet part in June 2026. AI is not a matter of return. It is a matter of existence.
+Body: A BW Businessworld–Salesforce roundtable (Savi Khanna, 17 June 2026) retired the ninety-day payback as the first question. Latoria of Ravago India put three lenses in its place: efficiency, growth, strategy. A separate SAP Concur table (1 June 2026) already has operating analogues — Happilo posting orders into SAP, Randstad cutting a two-week payroll read to two days, EY matching thousands of travel invoices to GST credits. The teaching case today is composite. The quotations are not. Do not sign a single 90-day covenant. Split the spend. Name the human who releases the ledger.
+Hashtags: #FutureCFODP #CFO #AIinFinance #IndianCFO #FinanceStudents #DrDebasisPahi #Accounting
+
+INSTAGRAM
+Hook: The red circle on the vendor slide is the formula the room already retired.
+Caption: 90-day payback on an AI close? Goenka called that an existence question, not a return question. Save this if you are sitting articleship, FP&A, or an audit-committee paper. Composite company. Public quotes. 6 October 2026.
+Hashtags: #FutureCFO #CFOLife #FinanceStudents #MBAIndia #AIgovernance #GST #CAStudents
+
+X / TWITTER
+Goenka, CFO Piramal Realty, June 2026: AI is not a return question. It is an existence question.
+Chowhan, Salesforce India, same table: no ROI, and you are still playing hobby.
+Hold both. Do not sign a 90-day covenant on the whole programme.
+#FutureCFODP #CFO
