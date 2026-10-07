@@ -1,0 +1,57 @@
+FUTURE CFO_DP — Social Kit — 2026-10-07
+Title: Before Ten
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+Episode folder: episodes/2026/10/2026-10-07-before-ten/
+
+YOUTUBE
+Title: Before Ten | RBI MPC Decision Morning, 7 Oct 2026 | Future CFO_DP Case
+Description:
+The statement has not landed. This briefing was prepared on the morning of 7 October 2026, before Governor Sanjay Malhotra's 10:00 IST Monetary Policy Statement and the noon press conference.
+
+What the public record showed at preparation:
+- RBI home page still carried policy repo 5.25%, SDF 5.00%, MSF and Bank Rate 5.50%, CRR 3.00%, SLR 18.00%.
+- Reuters poll, 18-28 September 2026: 35 of 61 economists expected a 25 bp hike to 5.50% — the first increase since February 2023. 29 of 53 looked for at least one further hike by December.
+- August CPI 4.82% (Reuters, 14 September), from 4.45% in July. Food 5.95%. Inside the 2-6% band, third month above the 4% target.
+- FBIL USD/INR 96.4348 as at 13:00 on 6 October. 6.94% GS 2036 at 7.2150%. 91-day T-bill 5.5199%.
+- 5 October overnight money-market volume Rs 7,30,002.71 crore, weighted average 5.07%. VRRR Rs 2,00,050 crore at 5.24%. Net liquidity absorbed, including outstanding operations, about Rs 5.30 lakh crore. RBI scheduled another overnight VRRR for 7 October.
+
+Teaching case (labelled composite, not a real issuer): Mahanadi Alloys. CFO Arjun Mehta. Rs 480 crore of working-capital lines reset inside 90 days. A 25 bp pass-through is Rs 1.20 crore annualised (480 crore x 0.25 percent). Three choices before ten: lock half the book, wait for the noon press conference, or send the audit committee a range and refuse to refresh street guidance.
+
+Polls are not policy. Policy is not your term sheet.
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Created and Copyright by Dr. Debasis Pahi
+Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur
+
+Tags: RBI, MPC, CFO, interest rates, working capital, India, finance students, Future CFO_DP
+
+LINKEDIN
+Hook: The Governor speaks at ten. The website still says 5.25%.
+Post: On the morning of 7 October 2026 the RBI home page still carried a policy repo rate of 5.25%. Governor Sanjay Malhotra is due at 10:00 IST. The press conference is at noon.
+
+Reuters, 28 September: 35 of 61 economists expected +25 bps to 5.50%, the first hike since February 2023. August CPI printed 4.82%. FBIL, 13:00 on 6 October: USD/INR 96.4348. The 6.94% GS 2036 was at 7.2150%. On 5 October the Bank absorbed — overnight VRRR of Rs 2,00,050 crore at 5.24%, and net liquidity absorbed, including outstanding operations, of about Rs 5.30 lakh crore.
+
+Question for students: Rs 480 crore of working-capital lines reset within 90 days. Twenty-five basis points is Rs 1.20 crore annualised. Do you lock half the book before ten, wait for the noon press conference, or send the audit committee a range and refuse to refresh guidance?
+
+Polls are not policy. Policy is not your term sheet.
+Case + deck + briefing: Future CFO_DP daily pack.
+#FutureCFODP #CFO #RBI #MBA #WorkingCapital
+
+INSTAGRAM
+Hook: 5.25% until he says otherwise.
+Caption: Decision morning. Not decision theatre. The Reuters poll said 35 of 61. The website still said 5.25%. Your term sheet does not care which headline you preferred. Read the case. Put a number on the floating book. Leave the repo line blank until ten.
+#FutureCFODP #RBIMPC #FinanceStudent #CFO
+
+X
+The street prices +25 bps at 10:00 IST. The RBI home page, this morning, still showed 5.25%. 35 of 61 in the 18-28 Sep Reuters poll. August CPI 4.82%. USD/INR 96.43 (FBIL, 6 Oct). Polls are not policy. Policy is not your term sheet. Future CFO_DP case: Before Ten.
+
+SOURCES
+- RBI home page, current rates, morning of 7 October 2026 (repo 5.25%).
+- Reuters poll, 28 September 2026, Pranoy Krishna.
+- Reuters, 14 September 2026, August CPI 4.82%.
+- FBIL via RBI, USD/INR as at 13:00, 6 October 2026.
+- RBI money-market operations as on 5 October 2026, press release 6 October 2026.
+- The Hindu BusinessLine, 5 October 2026, on the opening of the MPC meeting.
