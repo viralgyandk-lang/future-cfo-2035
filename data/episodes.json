@@ -1,7 +1,48 @@
 {
-  "generated_at": "2026-10-08T00:30:33.482105+00:00",
-  "total_episodes": 10,
+  "generated_at": "2026-10-08T00:36:26.097070+00:00",
+  "total_episodes": 11,
   "episodes": [
+    {
+      "id": "future-cfo-dp-2026-10-08",
+      "title": "The First Hike in Nearly Four Years",
+      "subtitle": "On 7 October 2026 the RBI MPC raised the repo rate 25 bps to 5.50% and shifted stance to calibrated tightening. A composite castings CFO must reprice floating working capital, the August capex note, and covenant headroom before the board meets.",
+      "date": "2026-10-08",
+      "category": "Monetary Policy, Cost of Capital and CFO Judgment",
+      "topics": [
+        "RBI MPC October 2026",
+        "repo rate 5.50%",
+        "calibrated tightening",
+        "WACC",
+        "working capital",
+        "GDP 7.1%",
+        "CPI 5.2%"
+      ],
+      "description": "HBS-style teaching case dated 8 October 2026. Public facts from the RBI Monetary Policy Statement, 5 to 7 October 2026, the Governor's statement, The Hindu and Reuters. MPC unanimously raised the LAF repo by 25 bps to 5.50%. SDF 5.25%. MSF and Bank Rate 5.75%. Stance changed from neutral to calibrated tightening. Rate cuts off the table in the near term. Prior easing cycle cut 125 bps from 6.50% to 5.25% by December 2025, then four holds. Reuters: FY inflation forecast lifted to 5.2% from 5%; real GDP forecast to 7.1% from 6.7%. Governor: headline CPI expected to average almost 5.8% over the next three quarters; core inflation 4.4% this year. Composite firm: Narmada Alloys Pvt. Ltd. Composite decision-maker: CFO Arvind Deshmukh. Not a real filing.",
+      "thumbnail": "",
+      "presentation": "",
+      "pdf": "episodes/2026/10/2026-10-08-first-hike-in-four-years/Future_CFO_DP_Daily_2026-10-08.pdf",
+      "audio": "",
+      "duration": "7 minutes",
+      "featured": true,
+      "tags": [
+        "RBI",
+        "repo rate",
+        "calibrated tightening",
+        "WACC",
+        "working capital",
+        "CFO",
+        "finance students",
+        "Future CFO_DP",
+        "Dr Debasis Pahi"
+      ],
+      "sources": [
+        "Reserve Bank of India, Monetary Policy Statement, 2026-27, Resolution of the Monetary Policy Committee, October 5 to 7, 2026. Unanimous 25 bps hike in LAF repo to 5.50%; SDF 5.25%; MSF and Bank Rate 5.75%; stance changed to calibrated tightening.",
+        "Statement by Shri Sanjay Malhotra, Governor, RBI, 7 October 2026, and RBI YouTube live statement. Rate cuts off the table; next action a hike or a pause; stance change by a majority of 4-2; headline CPI expected to average almost 5.8% over the next three quarters; core inflation 4.4% this financial year.",
+        "The Hindu, 7 October 2026: first hike after the December 2025 cut to 5.25% and four subsequent holds; easing cycle of 125 bps from 6.50% to 5.25%.",
+        "Reuters, 7 October 2026: inflation forecast raised to 5.2% from 5%; GDP growth forecast raised to 7.1% from 6.7%; Sakshi Gupta, HDFC Bank, expects another 50-75 bps. Analyst view, not an RBI projection.",
+        "RBI, Monetary Policy Statement, August 3 to 5, 2026: repo held at 5.25%; stance neutral; GDP 6.7% and CPI 5.0% projections that the October resolution revises."
+      ]
+    },
     {
       "id": "future-cfo-dp-2026-10-07",
       "title": "Before Ten",
@@ -22,7 +63,7 @@
       "pdf": "episodes/2026/10/2026-10-07-before-ten/Future_CFO_DP_Daily_2026-10-07.pdf",
       "audio": "episodes/2026/10/2026-10-07-before-ten/Future_CFO_DP_Daily_2026-10-07_Indian_English.mp3",
       "duration": "8 minutes 1 second",
-      "featured": true,
+      "featured": false,
       "tags": [
         "CFO",
         "RBI",
