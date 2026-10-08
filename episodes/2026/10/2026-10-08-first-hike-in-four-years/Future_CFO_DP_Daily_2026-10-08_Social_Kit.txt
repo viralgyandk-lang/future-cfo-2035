@@ -1,0 +1,107 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 8 October 2026
+Title: The First Hike in Nearly Four Years
+Slug: 2026-10-08-first-hike-in-four-years
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+Brand: Future CFO_DP | Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+FACTS USED (do not embellish in posts)
+- 7 October 2026: RBI MPC (meeting 5–7 October, 63rd meeting) unanimously raised the LAF repo rate by 25 bps to 5.50%.
+- SDF adjusted to 5.25%. MSF and Bank Rate adjusted to 5.75%.
+- Stance changed from neutral to calibrated tightening. Governor Sanjay Malhotra: rate cuts are off the table in the near term; next action can only be a hike or a pause. Stance vote reported by the Governor as 4-2.
+- Easing cycle had cut 125 bps from 6.50% to 5.25% (last cut December 2025), then four holds.
+- Reuters: FY inflation forecast lifted to 5.2% from 5%; real GDP forecast lifted to 7.1% from 6.7%.
+- Governor: headline CPI expected to average almost 5.8% over the next three quarters; core inflation projected at 4.4% this financial year.
+- Sakshi Gupta, HDFC Bank economist: expects another 50–75 bps. Label as an analyst view, not RBI guidance.
+- Teaching firm Narmada Alloys Pvt. Ltd. and CFO Arvind Deshmukh are a labelled composite. Not a real filing.
+
+YOUTUBE
+Title: Repo at 5.50%: What the First Hike in Nearly Four Years Does to a CFO's Week | Future CFO_DP
+
+Description:
+On 7 October 2026 the Reserve Bank of India's Monetary Policy Committee raised the policy repo rate by 25 basis points to 5.50% and shifted its stance from neutral to calibrated tightening. The rate vote was unanimous. Governor Sanjay Malhotra said rate cuts are off the table in the near term, and that the next move can only be a hike or a pause.
+
+This Future CFO_DP teaching session walks business students through the public record — the October resolution, the path from the December 2025 cut, the revised growth and inflation forecasts reported by Reuters — and then through a labelled composite case. Narmada Alloys is not a real company. The policy numbers are.
+
+What you will practise:
+- Transmission versus the headline rate
+- Floating versus MCLR versus fixed debt
+- Why WACC can move before the bank's reset letter arrives
+- A three-case capex gate (plus 25, 50 and 75 basis points)
+- Covenant headroom in basis points of EBIT, not in adjectives
+
+Sources: RBI Monetary Policy Statement, 5–7 October 2026; Governor's statement; The Hindu, 7 October 2026; Reuters, 7 October 2026.
+
+Created and Copyright by Dr. Debasis Pahi, Assistant Professor, Model Degree College Malkangiri. Ph.D., IIT Kharagpur.
+Future CFO_DP — Preparing Business Students for the AI-Powered Economy.
+https://viralgyandk-lang.github.io/future-cfo-2035/
+
+Chapters:
+0:00 The hike, in one paragraph
+1:10 Who voted, and what the stance means
+2:30 The path from 6.50% to 5.25% to 5.50%
+3:40 Forecasts: 7.1% growth, 5.2% inflation
+4:40 Composite case: Narmada Alloys
+6:10 Five lines for the board pack
+7:30 Judgment, not a rate view
+
+Tags: RBI, repo rate, MPC October 2026, calibrated tightening, CFO, WACC, working capital, finance students, Future CFO_DP, Dr Debasis Pahi, Indian economy, cost of capital
+
+Thumbnail line: REPO 5.50% — CUTS OFF THE TABLE
+
+LINKEDIN
+Hook: The hold is over. The repo is 5.50%. Cuts are off the table.
+
+Post:
+On 7 October 2026 the RBI Monetary Policy Committee raised the policy repo rate by 25 basis points to 5.50%. The vote on the rate was unanimous. SDF is 5.25%. MSF and the Bank Rate are 5.75%. The stance is now calibrated tightening.
+
+Governor Sanjay Malhotra was explicit. Rate cuts are off the table in the near term. The next action can only be a hike or a pause. How far the cycle goes depends on growth, underlying inflation, whether price pressures broaden, second-round effects, and demand.
+
+The path in is short. The easing cycle cut 125 basis points, from 6.50% to 5.25%, with the last cut in December 2025. Four meetings held. Yesterday the hold ended.
+
+Reuters reported the inflation forecast for the year lifted to 5.2% from 5%, and the real GDP forecast to 7.1% from 6.7%. The Governor said headline CPI is expected to average almost 5.8% over the next three quarters, with core inflation at 4.4% this year.
+
+For a CFO the useful question is not whether there will be another 50 basis points. An HDFC Bank economist has that as a view. It is not a Reserve Bank path. The useful question is whether the board pack can show, on one page, the interest delta on external-benchmark lines, the August capex note re-run at +25 / +50 / +75, and covenant headroom in basis points of EBIT.
+
+AI can draft the table. The resolution and the bank's reset letter inform it. Finance measures the delta. Accounting checks that borrowing-cost disclosure still matches the contracts. Judgment decides whether the project was a project, or a rate view.
+
+Full teaching case and deck: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+#FutureCFO #RBI #RepoRate #CFO #WorkingCapital #WACC #FinanceStudents #DrDebasisPahi
+
+INSTAGRAM
+Caption:
+Repo 5.50%.
+Stance: calibrated tightening.
+Cuts: off the table.
+
+7 October 2026. First RBI hike in nearly four years. Unanimous 25 bps. SDF 5.25%. MSF and Bank Rate 5.75%.
+
+A 25 bps headline is a small number. On a floating working-capital line it is not. On an August capex note signed under a neutral stance, it is a re-run, not a eulogy.
+
+Save this for the board pack:
+1. Ask the bank when the external benchmark resets.
+2. Split floating, MCLR, fixed, foreign-currency.
+3. Re-run capex at +25, +50, +75.
+4. Know interest-cover headroom in bps of EBIT.
+5. Do not book an economist's 50–75 bps path as policy.
+
+Teaching case on the site. Composite firm. Real policy numbers.
+
+Link in bio: viralgyandk-lang.github.io/future-cfo-2035
+
+#FutureCFO #RBI #FinanceStudents #CFO #RepoRate #IndianEconomy #CostOfCapital #DrDebasisPahi #MBAFinance #Accounting
+
+X / TWITTER
+Post 1:
+RBI, 7 Oct 2026: repo +25 bps to 5.50%. Unanimous. SDF 5.25%. MSF and Bank Rate 5.75%. Stance to calibrated tightening. Governor Malhotra: cuts off the table; next step a hike or a pause.
+
+Post 2:
+Path: easing cycle minus 125 bps (6.50% to 5.25% by Dec 2025), four holds, then yesterday's hike. Reuters: FY CPI forecast 5.2% (was 5%); GDP 7.1% (was 6.7%). Headline CPI seen near 5.8% over the next three quarters.
+
+Post 3:
+CFO job this week is not a rate view. It is transmission timing, floating share, the August capex note re-run at +25/50/75, and covenant headroom in bps of EBIT. Teaching case: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+Hashtags: #RBI #RepoRate #CFO #FutureCFO_DP
