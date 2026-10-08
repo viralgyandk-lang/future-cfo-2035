@@ -1,0 +1,92 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 8 October 2026
+Title: The First Hike in Nearly Four Years: Repo at 5.50%
+Created and Copyright by Dr. Debasis Pahi
+Tagline: Preparing Business Students for the AI-Powered Economy
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+Episode folder: episodes/2026/10/2026-10-08-rbi-repo-hike-5-50/
+
+============================================================
+YOUTUBE
+============================================================
+Title: RBI hikes repo to 5.50% — what a future CFO does next | Future CFO_DP | 8 Oct 2026
+
+Description:
+On 7 October 2026 the RBI Monetary Policy Committee raised the repo rate by 25 basis points to 5.50 percent. The rate vote was unanimous. The stance moved from neutral to calibrated tightening by 4–2. Governor Sanjay Malhotra said rate cuts are off the table in the near term.
+
+This Future CFO_DP daily walks business students through the public numbers only: SDF 5.25 percent, MSF and bank rate 5.75 percent, CPI for 2026–27 at 5.2 percent, real GDP at 7.1 percent, and the difference between a headline and an all-in borrowing cost.
+
+What you will learn
+- The corridor, and why 5.50 percent is not your loan rate
+- Which facilities reprice, and which do not
+- How to label a 50–75 bps analyst scenario so it is not mistaken for RBI guidance
+- What Ind AS 23, the effective interest rate, and Ind AS 116 do not let you book off a speech
+
+Sources: RBI Governor’s statement, 7 October 2026; Reuters; Business Standard; The Hindu.
+
+Created and Copyright by Dr. Debasis Pahi, Assistant Professor, Model Degree College Malkangiri. Ph.D., IIT Kharagpur.
+Future CFO_DP. Preparing business students for the AI-powered economy.
+AI generates. Data informs. Finance measures. Accounting verifies. Human judgment decides.
+
+Chapters:
+0:00 The hike
+1:10 Corridor and stance
+2:20 Inflation and growth forecasts
+3:40 Transmission
+5:00 Working capital and covenants
+6:10 Accounting checks
+7:00 Board line
+
+Tags: RBI, repo rate, MPC October 2026, Sanjay Malhotra, calibrated tightening, Future CFO, CFO skills, Ind AS, working capital, India monetary policy, business students, Dr Debasis Pahi
+
+============================================================
+LINKEDIN
+============================================================
+Hook: The RBI just ended the easing phase. Most students will quote 5.50%. A future CFO quotes the reset date.
+
+On 7 October 2026 the MPC raised the repo rate 25 bps to 5.50%, unanimous. Stance: calibrated tightening, 4–2. SDF 5.25%. MSF and bank rate 5.75%. Governor Sanjay Malhotra: cuts are off the table in the near term. Next move is a hike or a pause.
+
+Forecasts worth memorising, then leaving alone: CPI 2026–27 at 5.2% (from 5.0%). Core 4.4%. Real GDP 7.1% (up 40 bps). Q3 CPI projected at 6.0%.
+
+Do not add 25 bps to every WACC by habit. Do not book a lease remeasurement because the Governor spoke. Ind AS 116 does not work that way. Do not call an HDFC Bank economist’s 50–75 bps view the RBI’s path.
+
+Board line for 8 October: reprice floating debt on the actual reset, retest hurdle rates, protect cash conversion, and do not freeze investment that still earns its cost of capital.
+
+Full teaching case and deck: Future CFO_DP daily, 8 October 2026.
+Created and Copyright by Dr. Debasis Pahi.
+
+#FutureCFO #RBI #MonetaryPolicy #CFO #BusinessStudents #IndAS #FinanceEducation
+
+============================================================
+INSTAGRAM
+============================================================
+Caption:
+Repo 5.50%. Stance: calibrated tightening.
+The 25 bps is not the whole story.
+
+7 Oct 2026, RBI MPC:
+- Rate vote unanimous
+- Stance vote 4-2
+- Cuts off the table near term
+- CPI 5.2% · GDP 7.1%
+
+A future CFO asks: which loan resets, and which rate in the accounts is locked?
+
+Save this for the exam. Full audio on YouTube.
+Created and Copyright by Dr. Debasis Pahi · Future CFO_DP
+
+#RBI #RepoRate #CFO #MBA #CAStudents #Finance #FutureCFO
+
+============================================================
+X
+============================================================
+RBI, 7 Oct 2026: repo 5.50% (+25 bps, unanimous). Stance to calibrated tightening, 4–2. Cuts off the table near term. CPI 5.2%. GDP 7.1%.
+
+The board line is the reset date, not the headline. Future CFO_DP, 8 Oct.
+Created and Copyright by Dr. Debasis Pahi.
+
+============================================================
+PUBLISH NOTE
+============================================================
+YouTube: upload Future_CFO_DP_Daily_2026-10-08_Synced.mp4 as the full episode and Future_CFO_DP_Daily_2026-10-08_Teaser_60s.mp4 as the Short / teaser.
+Thumbnail text: REPO 5.50% · CUTS OFF THE TABLE
