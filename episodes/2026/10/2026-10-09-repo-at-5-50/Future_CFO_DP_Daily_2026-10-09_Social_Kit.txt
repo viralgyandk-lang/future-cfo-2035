@@ -1,0 +1,67 @@
+FUTURE CFO_DP — SOCIAL KIT
+Date: 9 October 2026
+Title: Repo at 5.50%: The First Hike Since February 2023
+Created and Copyright by Dr. Debasis Pahi
+Site: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+PHILOSOPHY
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+=== YOUTUBE ===
+Title: Repo at 5.50% — What the 7 October RBI hike asks of a CFO | Future CFO_DP
+Description:
+On 7 October 2026 the Monetary Policy Committee raised the policy repo rate by 25 basis points to 5.50 percent and shifted the stance to calibrated tightening. It was the first hike since February 2023.
+
+This Future CFO_DP briefing walks through the public facts — the corridor, the FY27 forecasts, reserves, credit growth, and the money-market print — and then opens a composite teaching case. Malabar Consumer Products Ltd is not a real issuer. CFO Meera Iyer has a floating facility resetting on 15 October and a board on 16 October.
+
+Facts used:
+- Repo 5.50%, SDF 5.25%, MSF and Bank Rate 5.75% (RBI resolution, 7 October 2026)
+- Unanimous rate vote; stance vote reported 4-2 (Business Standard)
+- FY27 GDP 7.1% (from 6.7%); FY27 CPI 5.2% (from 5.0%)
+- Headline CPI expected to average almost 5.8% over the next three quarters; core 4.4%
+- Forex reserves $734.6 billion as of 2 October 2026
+- Bank credit growth about 18%
+
+Created and Copyright by Dr. Debasis Pahi, Assistant Professor, Model Degree College Malkangiri, Ph.D., IIT Kharagpur.
+Future CFO_DP — Preparing business students for the AI-powered economy.
+
+Chapters:
+0:00 The hike
+1:10 Why inflation moved the stance
+2:40 Reserves, FDI, credit
+4:10 The composite case
+6:00 The bill and the choice
+7:10 Close
+
+Tags: RBI, repo rate, CFO, treasury, Indian economy, monetary policy, finance students, Future CFO_DP, Dr Debasis Pahi, working capital
+
+=== LINKEDIN ===
+Hook: The repo rate is 5.50%. Cuts are off the table. The reset on your floating book does not care how elegant the model was.
+
+On 7 October the MPC voted unanimously for +25 bps and moved the stance to calibrated tightening — the first hike since February 2023. FY27 growth was revised up to 7.1%. FY27 CPI was revised up to 5.2%. Credit is already running at 18–19%, against a 12–14% range Deputy Governor Swaminathan J called generally sustainable.
+
+Today’s Future CFO_DP case puts a composite CFO in front of a 15 October reset. Twenty-five basis points on a ₹1,200 crore floating facility is ₹3 crore a year. The covenant is not the plot. The sanction limit might be.
+
+Full case and deck: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+#CFO #RBI #Treasury #FinanceStudents #FutureCFO
+
+=== INSTAGRAM ===
+Caption: Repo 5.50. Stance: calibrated tightening. First hike since February 2023.
+
+A CFO does not need to guess December. She needs the bill, the covenant headroom, and a written question to the bank about the working-capital limit.
+
+Future CFO_DP · 9 October 2026
+Composite case inside. Not a real issuer.
+
+#RBI #CFO #Finance #MBA #IndianEconomy #FutureCFO
+
+=== X ===
+Post: RBI, 7 Oct 2026: repo to 5.50%, stance to calibrated tightening, cuts off the table. First hike since Feb 2023. FY27 GDP 7.1%, CPI 5.2%. Credit ~18%.
+
+Today’s Future CFO_DP case: what a 15 October floating reset actually costs, and why the sanction limit is the quieter risk.
+
+https://viralgyandk-lang.github.io/future-cfo-2035/
+
+=== PUBLISH LINE ===
+Upload the synced MP4 as the main YouTube video. Pin the teaser as a Short only if you crop it to vertical yourself; the file in this pack is 16:9, 60 seconds, for community posts and LinkedIn native video.
