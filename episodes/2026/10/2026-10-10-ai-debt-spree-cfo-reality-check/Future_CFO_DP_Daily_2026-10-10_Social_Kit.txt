@@ -1,0 +1,49 @@
+Future CFO_DP Daily – 10 October 2026
+The AI Debt Spree: Financing the Boom and the Accounting Reality Check
+
+=== YOUTUBE ===
+Title: The AI Debt Spree: $500B in New Debt, Meta’s $2.9B Depreciation Move & What Future CFOs Must Watch | Future CFO_DP
+Description:
+On 10 October 2026 the AI infrastructure boom has shifted from cash-flow financing to a half-trillion-dollar debt spree. Bloomberg, the BIS and the Bank of England are all flagging opacity, circular financing and rising leverage.
+
+In this episode we examine:
+• The scale: nearly $500 billion of new debt priced in 2026; Morgan Stanley’s $1.5 trillion external-financing estimate by 2028; BIS figure of >$1 trillion from the top five tech firms in 2025–26.
+• HBS Case 126-034: Meta’s decision to extend server useful life from 4 to 5.5 years, cutting 2025 depreciation by $2.9 billion.
+• HBS Case 126-070: the $27 billion Hyperion off-balance-sheet data-centre structure, residual-value guarantee and critical audit matter.
+• What aspiring CFOs must track: financing mix, residual guarantees, useful-life assumptions and construction-in-progress.
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Created and Copyright by Dr. Debasis Pahi | Future CFO_DP
+Preparing Business Students for the AI-Powered Economy
+https://viralgyandk-lang.github.io/future-cfo-2035/
+
+Tags: Future CFO, AI debt, Meta depreciation, HBS case, accounting, financial stability, BIS, Bank of England, CFO skills, AI infrastructure
+
+=== LINKEDIN ===
+Hook: Half a trillion dollars of new debt is financing the AI boom. The accounting choices that hide or reveal the risk are already in HBS cases. Here’s what every future CFO needs to read this week.
+
+Post:
+By early October 2026 Oracle, Broadcom, SpaceX and peers had priced nearly $500 billion of new debt to fund AI chips, data centres and power. The BIS warns the financing is increasingly debt and private credit—opaque and interconnected. Circular arrangements link chip makers, hyperscalers and AI labs.
+
+Two Harvard Business School cases put the accounting questions on the table:
+• 126-034 Meta: Accounting for AI Data Center Depreciation – useful-life extension cut 2025 depreciation by $2.9 billion.
+• 126-070 Meta Platforms: Accounting for the AI Arms Race – $27 billion off-balance-sheet Hyperion project with residual-value guarantee.
+
+Future CFOs will not merely report the numbers. They will explain the assumptions, stress-test the shortfall scenarios and keep the statements, footnotes and narrative consistent.
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFO #AI #Accounting #Finance #CFO #HarvardBusinessSchool #FinancialStability
+
+=== INSTAGRAM / X ===
+Caption: $500B in new AI debt. Meta cut depreciation by $2.9B with a useful-life change. Off-balance-sheet data centres carry residual-value guarantees. The BIS and Bank of England are watching. Future CFOs must measure what the footnotes only summarise.
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFO_DP #AIDebt #Accounting #CFOLife #HBS
+
+Hashtags: #FutureCFO #AIInfrastructure #Depreciation #OffBalanceSheet #FinancialStability #BIS #BankOfEngland #CFOSkills #BusinessStudents
+
+=== ONE-LINE PUBLISH ===
+Episode live at: https://viralgyandk-lang.github.io/future-cfo-2035/episodes/2026/10/2026-10-10-ai-debt-spree-cfo-reality-check/
