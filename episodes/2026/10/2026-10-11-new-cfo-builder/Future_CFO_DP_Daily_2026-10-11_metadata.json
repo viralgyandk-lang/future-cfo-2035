@@ -1,0 +1,32 @@
+{
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "copyright": "Created and Copyright by Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "date": "2026-10-11",
+  "title": "The New CFO: From Accountant to Builder in the AI Agent Era",
+  "slug": "2026-10-11-new-cfo-builder",
+  "episode_folder": "episodes/2026/10/2026-10-11-new-cfo-builder/",
+  "files": {
+    "presentation": "Future_CFO_DP_Daily_2026-10-11.pptx",
+    "pdf": "Future_CFO_DP_Daily_2026-10-11.pdf",
+    "audio": "Future_CFO_DP_Daily_2026-10-11_Indian_English.mp3",
+    "script": "Future_CFO_DP_Daily_2026-10-11_Script.docx",
+    "synced_video": "Future_CFO_DP_Daily_2026-10-11_Synced.mp4",
+    "teaser": "Future_CFO_DP_Daily_2026-10-11_Teaser_60s.mp4",
+    "social_kit": "Future_CFO_DP_Daily_2026-10-11_Social_Kit.txt",
+    "metadata": "Future_CFO_DP_Daily_2026-10-11_metadata.json"
+  },
+  "sources": [
+    "a16z – You Need a New CFO (8 Oct 2026)",
+    "IBM Institute for Business Value – 2026 CFO Study",
+    "Datarails – 2026 CFO Sentiments Survey",
+    "Egon Zehnder – AI in the CFO Function (Oct 2026)",
+    "Deloitte – CFOs brace for higher AI costs",
+    "Salesforce – CFO Priorities Report 2026"
+  ],
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "website": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "github_repo": "viralgyandk-lang/future-cfo-2035",
+  "branch": "main"
+}
