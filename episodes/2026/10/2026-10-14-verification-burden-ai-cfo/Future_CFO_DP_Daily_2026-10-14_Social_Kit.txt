@@ -1,0 +1,61 @@
+Future CFO_DP Daily | 14 October 2026
+The Verification Burden: Finance Teams Spend 26% of the Week Checking AI
+
+Created and Copyright by Dr. Debasis Pahi
+Preparing Business Students for the AI-Powered Economy
+
+=== YOUTUBE ===
+Title: The Verification Burden: Why Finance Teams Spend 26% of the Week Checking AI | Future CFO_DP
+Description:
+In October 2026, Datarails’ survey of 270 US CFOs revealed that finance teams spend an average of 26% of their working week verifying or correcting AI outputs. Universal adoption is here. Trust is not. Only 5% trust AI for board-ready reports without review. Only 4% trust it with the close.
+
+This episode unpacks the verification burden, the role of data architecture, the rise of the finance engineer, and what business students must do to prepare.
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Full HBS-style case, slides, and resources at the episode page.
+https://viralgyandk-lang.github.io/future-cfo-2035/
+
+#FutureCFO #AIinFinance #CFO #BusinessStudents #VerificationBurden #FinanceLeadership
+
+=== LINKEDIN ===
+Hook: Finance teams now spend 26% of the week checking AI. The verification burden is the new reality.
+
+Post:
+The Datarails 2026 CFO Sentiments Survey of 270 US finance leaders is out. Every respondent uses AI. Yet 96% spend at least 10% of their time verifying its outputs. The average is 26% of the working week.
+
+Only 5% trust AI for board-ready materials without human review. 4% trust it with the month-end close. Lack of auditability is the top barrier (75%).
+
+Data architecture decides the burden. Disconnected systems: 76% spend >25% of time on verification. Centralized data: 31%.
+
+The future CFO does not accept AI outputs. They challenge them. They design the controls. They keep human judgment as the final decision.
+
+AI generates. Data informs. Finance measures. Accounting verifies. Human judgment decides.
+
+Full case and resources: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+#FutureCFO_DP #AIinFinance #CFO #FinanceLeadership #BusinessEducation
+
+=== INSTAGRAM ===
+Caption: 26% of the week. That’s how much time finance teams now spend checking AI. 
+
+The verification burden is real. Trust is low. Data quality decides the cost. Human judgment still decides the outcome.
+
+Swipe for the numbers that matter for every future CFO.
+
+Full episode and case on the site.
+#FutureCFO #AIinFinance #FinanceStudents #CFOLife #BusinessSchool
+
+=== X / TWITTER ===
+Finance teams spend 26% of the week verifying AI outputs (Datarails 2026 survey of 270 CFOs).
+
+96% spend ≥10% of time checking.
+Only 5% trust AI for board reports without review.
+Only 4% trust it with the close.
+
+AI generates. Human judgment decides.
+
+#FutureCFO #AIinFinance
+
+=== HASHTAGS ===
+#FutureCFO_DP #FutureCFO #AIinFinance #CFO #FinanceLeadership #VerificationBurden #BusinessStudents #AIPoweredEconomy #DrDebasisPahi
