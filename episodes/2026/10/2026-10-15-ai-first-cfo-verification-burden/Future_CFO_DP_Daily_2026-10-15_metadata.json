@@ -1,0 +1,30 @@
+{
+  "brand": "Future CFO_DP",
+  "created_by": "Dr. Debasis Pahi",
+  "date": "2026-10-15",
+  "title": "AI-First CFOs Deliver 23% Higher Growth — But Verification Eats 26% of the Week",
+  "slug": "2026-10-15-ai-first-cfo-verification-burden",
+  "episode_folder": "episodes/2026/10/2026-10-15-ai-first-cfo-verification-burden",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "files": {
+    "presentation": "Future_CFO_DP_Daily_2026-10-15.pptx",
+    "pdf": "Future_CFO_DP_Daily_2026-10-15.pdf",
+    "audio": "Future_CFO_DP_Daily_2026-10-15_Indian_English.mp3",
+    "script": "Future_CFO_DP_Daily_2026-10-15_Script.docx",
+    "synced_video": "Future_CFO_DP_Daily_2026-10-15_Synced.mp4",
+    "teaser": "Future_CFO_DP_Daily_2026-10-15_Teaser_60s.mp4",
+    "metadata": "Future_CFO_DP_Daily_2026-10-15_metadata.json",
+    "social_kit": "Future_CFO_DP_Daily_2026-10-15_Social_Kit.txt"
+  },
+  "key_facts": [
+    "IBM 2026 CFO Study (1,500 CFOs): 62% of CFOs have expanded responsibilities into enterprise technology or AI strategy leadership.",
+    "Organizations led by AI-first CFOs achieved revenue growth rates 23% higher than peers (2022-2024).",
+    "Only 6% of finance organizations are transformation-ready with AI embedded at enterprise scale.",
+    "Datarails 2026 CFO Survey (270 CFOs): Finance teams spend average 26% of workweek verifying or correcting AI outputs.",
+    "96% of CFOs spend at least 10% of time on AI verification; only 5% trust AI for board-ready reports without review.",
+    "Lack of auditability is the top barrier (75%), followed by accuracy/hallucinations (71%).",
+    "Deloitte: 54% of finance leaders lead cross-enterprise AI and technology capital allocation."
+  ],
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "site": "https://viralgyandk-lang.github.io/future-cfo-2035/"
+}
