@@ -1,0 +1,71 @@
+FUTURE CFO_DP | SOCIAL KIT
+October 17, 2026 | The Verification Burden
+Created and Copyright by Dr. Debasis Pahi
+
+=== YOUTUBE ===
+Title: The Verification Burden | Why AI in Finance Still Needs Human Judgment | Future CFO_DP
+Description:
+In this Future CFO_DP daily briefing for October 17, 2026, we examine the 2026 Datarails CFO Survey. Every CFO is using AI, yet finance teams spend 26% of their week verifying AI outputs. Only 5% trust AI for board-ready reports.
+
+Key sources:
+- Datarails 2026 CFO Sentiments Survey (Oct 6, 2026)
+- IBM 2026 CFO Study (AI-first CFOs linked to 23% higher revenue growth)
+- Deloitte findings on AI capital allocation
+- Emory Goizueta Center for AI in Finance launch (Oct 12, 2026)
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Created and Copyright by Dr. Debasis Pahi
+Preparing Business Students for the AI-Powered Economy
+Website: https://viralgyandk-lang.github.io/future-cfo-2035/
+
+Tags: FutureCFO, AIFinance, CFO, BusinessStudents, VerificationBurden, Datarails, IBM, Accounting, FinanceCareers, AIPoweredEconomy
+
+=== LINKEDIN ===
+Hook: AI is now standard in every CFO’s office. Trust is not.
+
+Post:
+Last week’s Datarails 2026 CFO Survey is required reading for every business student preparing for finance careers.
+
+100% of 270 CFOs are already using AI.
+Finance teams spend 26% of their week verifying or correcting AI outputs.
+Only 5% trust AI for board-ready reports.
+Only 4% trust it with the month-end close.
+
+The verification burden is the new operating reality. IBM data show AI-first CFOs are associated with 23% higher revenue growth. Deloitte reports finance leaders are taking charge of AI capital allocation.
+
+The future CFO does not just prompt. The future CFO designs the verification process, sets governance standards, and knows when to override the model.
+
+Emory’s Goizueta Business School launched its Center for AI in Finance on October 12. Wall Street is already tying compensation to AI skills.
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFO #AIFinance #BusinessStudents #CFO #Accounting #VerificationBurden
+
+=== INSTAGRAM ===
+Caption:
+AI is everywhere in finance. Trust is not.
+
+The 2026 Datarails survey: Finance teams spend 26% of the week checking AI. Only 5% of CFOs trust it for board reports.
+
+The verification burden is real. Human judgment still decides.
+
+Full briefing on YouTube and LinkedIn.
+
+#FutureCFO #AIFinance #FinanceStudents #CFO #AccountingLife #AIPoweredEconomy #BusinessEducation
+
+=== X (TWITTER) ===
+Thread starter:
+AI adoption in finance is 100% (Datarails 2026). Trust for board-ready reports is 5%.
+
+Finance teams spend 26% of the week verifying AI outputs. This is the verification burden.
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFO #AIFinance
+
+=== HASHTAGS (ALL PLATFORMS) ===
+#FutureCFO #AIFinance #CFO #BusinessStudents #VerificationBurden #Datarails #IBM #Accounting #FinanceCareers #AIPoweredEconomy #HumanJudgment #FinanceEducation
+
+=== ONE-LINE PUBLISH NOTE ===
+All core files generated. Push metadata and social kit to GitHub episodes/2026/10/2026-10-17-verification-burden/. Media files follow via email or one-command script if size limits apply.
