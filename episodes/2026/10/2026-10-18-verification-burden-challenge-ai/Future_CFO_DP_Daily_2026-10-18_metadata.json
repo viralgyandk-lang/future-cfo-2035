@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "title": "The Verification Burden: Why Great CFOs Challenge AI Outputs",
+  "short_slug": "verification-burden-challenge-ai",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "presentation": "Future_CFO_DP_Daily_2026-10-18.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-10-18.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-10-18_Indian_English.mp3",
+  "script": "Future_CFO_DP_Daily_2026-10-18_Script.docx",
+  "video": "Future_CFO_DP_Daily_2026-10-18_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-10-18_Teaser_60s.mp4",
+  "duration_audio_seconds": 518,
+  "key_facts": [
+    "Datarails 6 Oct 2026: Finance teams spend 26% of week verifying AI outputs; only 5% trust AI for board-ready reports without review",
+    "ZDNET 14 Oct 2026: >90% of CFOs using AI report multiple benefits; top priorities include forecast accuracy and scaling agentic AI",
+    "Dev Tripathy: Great CFOs challenge AI outputs rather than accept them",
+    "a16z: Rise of finance engineers at Anthropic (70+ custom skills) and OpenAI (real-time finance)"
+  ],
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "website": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "episode_folder": "episodes/2026/10/2026-10-18-verification-burden-challenge-ai"
+}
