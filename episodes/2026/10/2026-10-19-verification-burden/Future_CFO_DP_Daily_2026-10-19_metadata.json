@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-19",
+  "title": "The Verification Burden: Finance Teams Spend 26% of Their Week Checking AI",
+  "slug": "verification-burden",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "files": {
+    "presentation": "Future_CFO_DP_Daily_2026-10-19.pptx",
+    "pdf": "Future_CFO_DP_Daily_2026-10-19.pdf",
+    "audio": "Future_CFO_DP_Daily_2026-10-19_Indian_English.mp3",
+    "script": "Future_CFO_DP_Daily_2026-10-19_Script.docx",
+    "video": "Future_CFO_DP_Daily_2026-10-19_Synced.mp4",
+    "teaser": "Future_CFO_DP_Daily_2026-10-19_Teaser_60s.mp4",
+    "social_kit": "Future_CFO_DP_Daily_2026-10-19_Social_Kit.txt",
+    "metadata": "Future_CFO_DP_Daily_2026-10-19_metadata.json"
+  },
+  "sources": [
+    "Datarails 2026 CFO Sentiments Survey (6 October 2026)",
+    "Deloitte Finance Trends 2027",
+    "IBM 2026 CFO Study"
+  ],
+  "duration_audio_minutes_approx": 6.8,
+  "pages_pdf": 12
+}
