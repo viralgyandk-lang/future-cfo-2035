@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-21",
+  "title": "The AI-First CFO: From Time Savings to Strategic Value Creation",
+  "short_slug": "ai-first-cfo",
+  "episode_folder": "episodes/2026/10/2026-10-21-ai-first-cfo",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "files": {
+    "presentation": "Future_CFO_DP_Daily_2026-10-21.pptx",
+    "pdf": "Future_CFO_DP_Daily_2026-10-21.pdf",
+    "audio": "Future_CFO_DP_Daily_2026-10-21_Indian_English.mp3",
+    "script": "Future_CFO_DP_Daily_2026-10-21_Script.docx",
+    "video": "Future_CFO_DP_Daily_2026-10-21_Synced.mp4",
+    "teaser": "Future_CFO_DP_Daily_2026-10-21_Teaser_60s.mp4",
+    "social_kit": "Future_CFO_DP_Daily_2026-10-21_Social_Kit.txt"
+  },
+  "website": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "key_facts": [
+    "IBM 2026 CFO Study: AI-first CFOs linked to 23% higher revenue growth",
+    "Datarails: 96% of CFOs spend ≥10% of day verifying AI outputs",
+    "Only 6% of finance organisations transformation-ready",
+    "Anthropic finance: 70+ AI skills, monthly review in ~30 minutes"
+  ]
+}
