@@ -1,0 +1,65 @@
+FUTURE CFO_DP – SOCIAL KIT
+Date: 23 October 2026
+Title: The AI Cost Reckoning: CFOs Draw the Line on Blank-Check AI Spend
+Created and Copyright by Dr. Debasis Pahi
+
+=== YOUTUBE ===
+Title: The AI Cost Reckoning: Why CFOs Are Drawing the Line on Blank-Check Spend | Future CFO_DP
+Description:
+Wall Street banks are wrestling with soaring AI bills. A Bloomberg report on 22 October 2026 shows finance chiefs moving from blank-check approval to cost discipline. Agentic AI is hard to budget. A SAS survey the same day finds 76% of banks expect autonomous risk decisions within five years, yet only 18% have adequate governance today.
+
+In this episode we examine the real numbers, the governance gap, expanding CFO mandates, and the market signal from 22 October. Practical lessons for future CFOs: visibility, governance at speed, and explicit sourcing decisions.
+
+Philosophy: AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+Future CFO_DP | Preparing Business Students for the AI-Powered Economy
+Created and Copyright by Dr. Debasis Pahi (Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur)
+
+Tags: Future CFO, AI costs, CFO, banking AI, agentic AI, finance leadership, AI governance, Deloitte, SAS, Bloomberg
+
+=== LINKEDIN ===
+Post:
+The blank check for AI is closing.
+
+Bloomberg reported yesterday that Wall Street banks are grappling with soaring AI bills. CFOs who approved ambitious programmes are now imposing access limits and monthly caps. One process dropped from €5 to €0.03 per run — yet at scale the absolute bill still matters. High-end models can cost the equivalent of thousands of dollars per employee per month if left unrestricted.
+
+A SAS / FT Longitude survey released the same day: 63% of banking leaders would trade transparency for better performance. 76% expect autonomous risk decisions within five years. Only 18% currently have adequate AI governance.
+
+Deloitte notes that 60% of finance leaders expect AI costs and complexity to rise substantially through 2027. Markets reacted on 22 October with a tech-led sell-off as concerns about AI capital spending resurfaced.
+
+For future CFOs the work is clear: track usage and inference costs with the same rigour as headcount, install governance that moves at the speed of adoption, and make explicit sourcing decisions for every activity.
+
+AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.
+
+#FutureCFO #AIinFinance #CFO #Banking #AgenticAI #FinanceLeadership #FutureCFODP
+
+=== INSTAGRAM ===
+Caption:
+The AI bills have arrived. 💳
+
+Banks are moving from blank-check AI spend to disciplined cost control. Real numbers from 22 October reports:
+
+• Process cost: €5 → €0.03
+• Governance gap: 76% expect autonomous decisions, only 18% ready
+• Markets reacting to AI spending scale
+
+Future CFOs will measure, verify, and decide.
+
+Swipe for the full briefing.
+
+#FutureCFO #AIinFinance #CFOLife #FinanceStudents #AgenticAI #FutureCFODP #BusinessStudents
+
+=== X (TWITTER) ===
+Tweet 1:
+Bloomberg: Wall Street banks wrestling with soaring AI bills. The blank-check era is ending. CFOs are imposing caps and access limits.
+
+Tweet 2:
+SAS survey (22 Oct): 63% of banks would trade transparency for better AI performance. 76% expect autonomous risk decisions in 5 years. Only 18% have adequate governance today.
+
+Tweet 3:
+Future CFO lesson: Track inference & agent costs like headcount. Governance must move at the speed of adoption. Explicit sourcing for every activity.
+
+#FutureCFO #AIinFinance
+
+=== WEBSITE ===
+https://viralgyandk-lang.github.io/future-cfo-2035/
