@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-25",
+  "title": "The Expanding CFO Mandate: AI Ambition Meets Accountability",
+  "short_slug": "2026-10-25-cfo-ai-mandate-accountability",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "presentation": "Future_CFO_DP_Daily_2026-10-25.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-10-25.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-10-25_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-10-25_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-10-25_Teaser_60s.mp4",
+  "script": "Future_CFO_DP_Daily_2026-10-25_Script.docx",
+  "social_kit": "Future_CFO_DP_Daily_2026-10-25_Social_Kit.txt",
+  "duration_audio_seconds": 271,
+  "sources": [
+    "Deloitte Finance Trends 2027 (September 2026)",
+    "Deloitte US press release 9 September 2026",
+    "CFO Dive reporting on Deloitte AI cost findings",
+    "Alphabet CFO Anat Ashkenazi statements on agentic AI",
+    "Intuit Ashley Still interview (CFO Dive, October 2026)",
+    "HFS Research on digital labor and CFO cost model (October 2026)"
+  ],
+  "key_facts": [
+    "43% prioritize embedding AI to automate operations",
+    "54% lead cross-enterprise AI and technology capital allocation",
+    "48% oversee AI trust and AI/tech spending cost controls",
+    "60% expect AI costs and complexity to rise substantially through 2027",
+    "95% comfortable with agentic workflows in some activities",
+    "14% support full autonomy for critical decisions",
+    "84% expect technology sovereignty to reshape capital allocation"
+  ]
+}
