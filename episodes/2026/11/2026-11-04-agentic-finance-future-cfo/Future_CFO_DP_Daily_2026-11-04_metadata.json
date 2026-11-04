@@ -1,1 +1,24 @@
-PLACEHOLDER
+{
+  "episode_id": "2026-11-04-agentic-finance-future-cfo",
+  "date": "2026-11-04",
+  "title": "Agentic Finance is Coming: Why Only 6% of Finance Teams Are Ready",
+  "short_title": "Agentic Finance Future CFO",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "presentation": "Future_CFO_DP_Daily_2026-11-04.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-11-04.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-11-04_Indian_English.mp3",
+  "script": "Future_CFO_DP_Daily_2026-11-04_Script.docx",
+  "video": "Future_CFO_DP_Daily_2026-11-04_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-11-04_Teaser_60s.mp4",
+  "social_kit": "Future_CFO_DP_Daily_2026-11-04_Social_Kit.txt",
+  "duration_audio_minutes": "8",
+  "youtube_title": "Agentic Finance is Coming: Why Only 6% of Finance Teams Are Ready | Future CFO_DP",
+  "youtube_description": "In this episode of Future CFO_DP, Dr. Debasis Pahi unpacks the Wolters Kluwer Future Ready CFO 2026 report and the OneStream Forward Finance Index. Discover why 83% of APAC CFOs see AI reshaping finance, why only 6% of organizations are true Forward Finance Leaders, and what business students must master for the Agentic Finance era. Human judgment remains the final decision.\n\nSources: Wolters Kluwer Future Ready CFO 2026, OneStream Forward Finance Index, BW CFO World, FICCI CFO Summit 2026.\n\n#FutureCFO #AgenticFinance #AIFinance #CFOLeadership",
+  "keywords": ["Agentic Finance", "Future CFO", "AI in Finance", "Wolters Kluwer", "Forward Finance Index", "Business Students", "Finance Education"],
+  "site_url": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "github_repo": "viralgyandk-lang/future-cfo-2035",
+  "episode_folder": "episodes/2026/11/2026-11-04-agentic-finance-future-cfo/"
+}
