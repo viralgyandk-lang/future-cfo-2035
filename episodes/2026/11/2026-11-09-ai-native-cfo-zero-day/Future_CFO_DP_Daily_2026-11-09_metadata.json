@@ -1,0 +1,29 @@
+{
+  "brand": "Future CFO_DP",
+  "created_by": "Dr. Debasis Pahi",
+  "copyright": "Created and Copyright by Dr. Debasis Pahi (Assistant Professor, Model Degree College Malkangiri · Ph.D., IIT Kharagpur)",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "date": "2026-11-09",
+  "title": "The AI-Native CFO: Architect of the Zero-Day Close",
+  "short_slug": "ai-native-cfo-zero-day",
+  "episode_folder": "episodes/2026/11/2026-11-09-ai-native-cfo-zero-day",
+  "files": {
+    "presentation": "Future_CFO_DP_Daily_2026-11-09.pptx",
+    "pdf_case": "Future_CFO_DP_Daily_2026-11-09.pdf",
+    "audio": "Future_CFO_DP_Daily_2026-11-09_Indian_English.mp3",
+    "script": "Future_CFO_DP_Daily_2026-11-09_Script.docx",
+    "synced_video": "Future_CFO_DP_Daily_2026-11-09_Synced.mp4",
+    "teaser": "Future_CFO_DP_Daily_2026-11-09_Teaser_60s.mp4",
+    "social_kit": "Future_CFO_DP_Daily_2026-11-09_Social_Kit.txt",
+    "metadata": "Future_CFO_DP_Daily_2026-11-09_metadata.json"
+  },
+  "key_facts": [
+    "a16z Oct 2026: You Need a New CFO – real-time finance, OpenAI Sarah Friar, Anthropic 70+ AI skills for 90-95% monthly review in 30 min",
+    "HPE CFO Marie Myers 5 Nov 2026: scaling agentic AI 'Alfred' with Deloitte; 54% CFOs prioritize AI agents in 2026 (Deloitte)",
+    "Middle-market: 64% dedicated AI budget; AP, cash forecast, fraud top uses; 70% redeploy talent; <12 mo payback",
+    "Gartner: redirect AI capacity deliberately; experience gap in accounting judgment"
+  ],
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "site": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "repo": "viralgyandk-lang/future-cfo-2035"
+}
