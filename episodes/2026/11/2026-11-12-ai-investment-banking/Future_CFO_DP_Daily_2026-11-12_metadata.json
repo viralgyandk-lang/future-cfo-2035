@@ -1,1 +1,22 @@
-PLACEHOLDER
+{
+  "date": "2026-11-12",
+  "title": "AI in the Deal Room: 2026 Reality Check for Future Finance Leaders",
+  "slug": "ai-investment-banking",
+  "episode_folder": "episodes/2026/11/2026-11-12-ai-investment-banking",
+  "presentation": "Future_CFO_DP_Daily_2026-11-12.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-11-12.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-11-12_Indian_English.mp3",
+  "video": "Future_CFO_DP_Daily_2026-11-12_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-11-12_Teaser_60s.mp4",
+  "script": "Future_CFO_DP_Daily_2026-11-12_Script.docx",
+  "duration_audio_seconds": 457,
+  "key_facts": [
+    "BoE/FCA 2026 survey: 86% of UK financial respondents use AI (up from 75% in 2024); GenAI 56% of systems; 80% have agents deployed, only 2% broad autonomy",
+    "US banks: Goldman GS AI Assistant to 46k employees; Morgan Stanley AskResearchGPT; JPMorgan 175+ AI use cases in CIB; BofA banker covers 50 vs 15 clients",
+    "Goldman 2026 summer intern class ~2,500 (about 100 fewer); junior production roles narrowing",
+    "CoreWeave results 11 Nov 2026 lifted AI stocks; Nasdaq/S&P >1% rally"
+  ],
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "copyright": "Created and Copyright by Dr. Debasis Pahi",
+  "brand": "Future CFO_DP | Preparing Business Students for the AI-Powered Economy"
+}
