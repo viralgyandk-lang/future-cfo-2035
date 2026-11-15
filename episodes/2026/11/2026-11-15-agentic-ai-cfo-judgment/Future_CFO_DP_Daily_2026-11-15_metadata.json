@@ -1,0 +1,29 @@
+{
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "date": "2026-11-15",
+  "title": "Great CFOs Challenge AI Outputs — Judgment in the Age of Agentic Finance",
+  "slug": "2026-11-15-agentic-ai-cfo-judgment",
+  "episode_folder": "episodes/2026/11/2026-11-15-agentic-ai-cfo-judgment/",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "files": {
+    "presentation": "Future_CFO_DP_Daily_2026-11-15.pptx",
+    "pdf": "Future_CFO_DP_Daily_2026-11-15.pdf",
+    "audio": "Future_CFO_DP_Daily_2026-11-15_Indian_English.mp3",
+    "script": "Future_CFO_DP_Daily_2026-11-15_Script.docx",
+    "synced_video": "Future_CFO_DP_Daily_2026-11-15_Synced.mp4",
+    "teaser": "Future_CFO_DP_Daily_2026-11-15_Teaser_60s.mp4",
+    "metadata": "Future_CFO_DP_Daily_2026-11-15_metadata.json",
+    "social_kit": "Future_CFO_DP_Daily_2026-11-15_Social_Kit.txt"
+  },
+  "summary": "Agentic AI is moving from pilot to production in finance functions. Real cases from HPE, Alphabet, Trintech, BeSmartee and Philips India illustrate the shift. CFOs must expand from financial stewardship to governing the intelligence layer while keeping human judgment as the final decision authority. Key data: 60% of finance leaders expect substantially higher AI costs through 2027; more than half already lead AI capital allocation.",
+  "keywords": ["agentic AI", "CFO", "financial close", "human judgment", "AI costs", "real-time finance", "fractional CFO", "controls"],
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "site": "https://viralgyandk-lang.github.io/future-cfo-2035/",
+  "sources": [
+    "CFO Dive coverage of HPE, Alphabet, Trintech, BeSmartee, Deloitte surveys (2026)",
+    "BW CFO World interview with Philips India CFO Dev Tripathy",
+    "Forbes on fractional CFOs and cfo.ai",
+    "Intuit commentary on continuous finance"
+  ]
+}
