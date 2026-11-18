@@ -1,0 +1,25 @@
+{
+  "episode_date": "2026-11-18",
+  "title": "The Safety Net is Gone: Future CFOs and Agentic AI",
+  "short_slug": "safety-net-gone-agentic-ai",
+  "episode_folder": "episodes/2026/11/2026-11-18-safety-net-gone-agentic-ai",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "presentation": "Future_CFO_DP_Daily_2026-11-18.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-11-18.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-11-18_Indian_English.mp3",
+  "script": "Future_CFO_DP_Daily_2026-11-18_Script.docx",
+  "video": "Future_CFO_DP_Daily_2026-11-18_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-11-18_Teaser_60s.mp4",
+  "social_kit": "Future_CFO_DP_Daily_2026-11-18_Social_Kit.txt",
+  "duration_audio_seconds": 300,
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "key_facts": [
+    "Trintech CFO Omar Choucair warns of rogue AI agents in financial close (CFO Dive, Oct 2026)",
+    "Rightworks: 71% of accounting firms using/testing AI (up from 40%), 39% higher revenue per employee for active users, 63% lack formal policy (Nov 2026)",
+    "BearingPoint: 75% CFOs expect high AI impact by 2030, 74% current adoption minimal/basic",
+    "IBM: >60% CFOs expanded into AI/tech strategy",
+    "Gartner: $2.52T AI spending in 2026 (+44% YoY)"
+  ]
+}
