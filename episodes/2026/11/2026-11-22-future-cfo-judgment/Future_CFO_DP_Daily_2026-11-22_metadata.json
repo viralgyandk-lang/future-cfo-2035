@@ -1,1 +1,27 @@
-PLACEHOLDER
+{
+  "date": "2026-11-22",
+  "title": "The Future CFO: Why Judgment Beats Algorithms",
+  "short_slug": "2026-11-22-future-cfo-judgment",
+  "brand": "Future CFO_DP",
+  "creator": "Dr. Debasis Pahi",
+  "copyright": "Created and Copyright by Dr. Debasis Pahi",
+  "tagline": "Preparing Business Students for the AI-Powered Economy",
+  "philosophy": "AI generates. DATA informs. FINANCE measures. ACCOUNTING verifies. HUMAN JUDGMENT decides.",
+  "presentation": "Future_CFO_DP_Daily_2026-11-22.pptx",
+  "pdf": "Future_CFO_DP_Daily_2026-11-22.pdf",
+  "audio": "Future_CFO_DP_Daily_2026-11-22_Indian_English.mp3",
+  "script": "Future_CFO_DP_Daily_2026-11-22_Script.docx",
+  "video": "Future_CFO_DP_Daily_2026-11-22_Synced.mp4",
+  "teaser": "Future_CFO_DP_Daily_2026-11-22_Teaser_60s.mp4",
+  "social_kit": "Future_CFO_DP_Daily_2026-11-22_Social_Kit.txt",
+  "youtube_title": "The Future CFO: Why Judgment Beats Algorithms | AI in Finance 2026 | Future CFO_DP",
+  "key_facts": [
+    "Deloitte Global Gen Z and Millennial Survey 2026: 74% of Gen Zs and millennials use AI in day-to-day work",
+    "FICCI CFO Summit 2026 (Hyderabad): Reimagining the Finance Role in the Age of AI",
+    "Randstad India CFO Nagesh Bailur on potential AI replacement of computer-dependent jobs while strategic role grows",
+    "Bank of England/FCA 2026 survey: 86% of UK financial services firms use AI",
+    "Federal Reserve Financial Stability Report: AI top-cited risk (87%); >$680B AI infrastructure debt in first 10 months of 2026; >$3T commitments",
+    "IMA Country Head Arindam Ghosh: Accounting education must integrate AI, analytics, ethics; WEF 39% core skills change by 2030"
+  ],
+  "episode_folder": "episodes/2026/11/2026-11-22-future-cfo-judgment/"
+}
